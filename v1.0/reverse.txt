@@ -1,0 +1,19 @@
+INITIALISATION : Rg (0, -2)  Rd (0, -1) 
+               : hg 0 hd 0 b 1
+
+
+Ajout de (0, -3)  a gauche 
+1) CH 
+	 debh : (0, -1) , debb : (0, -1) , Rg : (0, -2) , n : (0, -3) 
+	 0 0 0
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? 0
+	 convexite ? 0
+
+2) LARGEUR : 
+	 UL 0(0, -1) , UR 0(0, -1) , L 1(0, -2) 
+	 cas particulier UR == UL
+	 Largeur de UL (0, -1) 0, UR (0, -1) 0 et L (0, -3) 1 => 2
+
+	 >= : cancel
+	 zone : 0 Rbuffer : (0, -2) 

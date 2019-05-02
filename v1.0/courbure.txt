@@ -1,0 +1,2377 @@
+INITIALISATION
+Courbe fermee
+	 ajout a gauche : (0, 0)  (0, 0) 
+	 ajout a gauche : (-2, 0)  (0, -2) 
+	 ajout a gauche : (-3, 0)  (0, -3) 
+	 ajout a gauche : (-4, 0)  (0, -4) 
+	 ajout a gauche : (-5, 0)  (0, -5) 
+	 ajout a gauche : (-6, 0)  (0, -6) 
+	 ajout a gauche : (-7, 0)  (0, -7) 
+	 ajout a gauche : (-8, 0)  (0, -8) 
+	 ajout a gauche : (-9, 0)  (0, -9) 
+	 ajout a gauche : (-10, 1)  (1, -10) 
+	 ajout a gauche : (-11, 1)  (1, -11) 
+	 ajout a gauche : (-12, 2)  (2, -12) 
+	 ajout a gauche : (-13, 2)  (2, -13) 
+	 ajout a gauche : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-15, 2)  (2, -15) 
+	 ajout a gauche : (-16, 3)  (3, -16) 
+	 ajout a droite : vL 0 257
+	 ajout a droite : vL 1 257
+	 ajout a droite : vL 2 257
+	 ajout a droite : vL 3 257
+	 ajout a droite : vL 4 257
+
+CORPS DE L'ALGORITHME
+	 Point de depart : (4, -1)  (-1, 4) 
+	 ajout a gauche : (5, 0)  (0, 5) 
+	 ajout a gauche : (3, -1)  (-1, 3) 
+	 ajout a gauche : (2, -1)  (-1, 2) 
+	 ajout a gauche : (1, -1)  (-1, 1) 
+	 ajout a gauche : (0, 0)  (0, 0) 
+	 ajout a gauche : (-1, 0)  (0, -1) 
+	 ajout a gauche : (-2, 0)  (0, -2) 
+	 ajout a gauche : (-3, 0)  (0, -3) 
+	 ajout a gauche : (-4, 0)  (0, -4) 
+	 ajout a gauche : (-5, 0)  (0, -5) 
+	 ajout a gauche : (-6, 0)  (0, -6) 
+	 ajout a gauche : (-7, 0)  (0, -7) 
+	 ajout a gauche : (-8, 0)  (0, -8) 
+	 ajout a gauche : (-9, 0)  (0, -9) 
+	 ajout a gauche : (-10, 1)  (1, -10) 
+	 ajout a gauche : (-11, 1)  (1, -11) 
+	 ajout a gauche : (-12, 2)  (2, -12) 
+	 ajout a gauche : (-13, 2)  (2, -13) 
+	 ajout a gauche : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-15, 2)  (2, -15) 
+vR 257 4
+vL 5 258
+	 ajout a droite : vL 6 258
+	 ajout a droite : vL 7 258
+	 ajout a droite : vL 8 258
+	 Point de depart : (8, 0)  (0, 8) 
+	 ajout a gauche : (9, 1)  (1, 9) 
+	 ajout a gauche : (7, 0)  (0, 7) 
+	 ajout a gauche : (6, 0)  (0, 6) 
+	 ajout a gauche : (5, 0)  (0, 5) 
+	 ajout a gauche : (4, -1)  (-1, 4) 
+	 ajout a gauche : (3, -1)  (-1, 3) 
+	 ajout a gauche : (2, -1)  (-1, 2) 
+	 ajout a gauche : (1, -1)  (-1, 1) 
+	 ajout a gauche : (0, 0)  (0, 0) 
+	 ajout a gauche : (-1, 0)  (0, -1) 
+	 ajout a gauche : (-2, 0)  (0, -2) 
+	 ajout a gauche : (-3, 0)  (0, -3) 
+	 ajout a gauche : (-4, 0)  (0, -4) 
+	 ajout a gauche : (-5, 0)  (0, -5) 
+	 ajout a gauche : (-6, 0)  (0, -6) 
+	 ajout a gauche : (-7, 0)  (0, -7) 
+	 ajout a gauche : (-8, 0)  (0, -8) 
+	 ajout a gauche : (-9, 0)  (0, -9) 
+vR 258 8
+vR 259 8
+vR 260 8
+vR 261 8
+vR 262 8
+vR 263 8
+vL 9 264
+	 ajout a droite : vL 10 264
+	 Point de depart : (10, 1)  (1, 10) 
+	 ajout a gauche : (11, 2)  (2, 11) 
+	 ajout a gauche : (9, 1)  (1, 9) 
+	 ajout a gauche : (8, 0)  (0, 8) 
+	 ajout a gauche : (7, 0)  (0, 7) 
+	 ajout a gauche : (6, 0)  (0, 6) 
+	 ajout a gauche : (5, 0)  (0, 5) 
+	 ajout a gauche : (4, -1)  (-1, 4) 
+	 ajout a gauche : (3, -1)  (-1, 3) 
+	 ajout a gauche : (2, -1)  (-1, 2) 
+	 ajout a gauche : (1, -1)  (-1, 1) 
+	 ajout a gauche : (0, 0)  (0, 0) 
+	 ajout a gauche : (-1, 0)  (0, -1) 
+	 ajout a gauche : (-2, 0)  (0, -2) 
+vR 264 10
+vR 265 10
+vR 266 10
+vR 267 10
+vR 268 10
+vR 269 10
+vR 270 10
+vL 11 271
+	 ajout a droite : vL 12 271
+	 Point de depart : (12, 2)  (2, 12) 
+	 ajout a gauche : (13, 3)  (3, 13) 
+	 ajout a gauche : (11, 2)  (2, 11) 
+	 ajout a gauche : (10, 1)  (1, 10) 
+	 ajout a gauche : (9, 1)  (1, 9) 
+	 ajout a gauche : (8, 0)  (0, 8) 
+	 ajout a gauche : (7, 0)  (0, 7) 
+	 ajout a gauche : (6, 0)  (0, 6) 
+	 ajout a gauche : (5, 0)  (0, 5) 
+	 ajout a gauche : (4, -1)  (-1, 4) 
+	 ajout a gauche : (3, -1)  (-1, 3) 
+	 ajout a gauche : (2, -1)  (-1, 2) 
+	 ajout a gauche : (1, -1)  (-1, 1) 
+	 ajout a gauche : (0, 0)  (0, 0) 
+vR 271 12
+vR 272 12
+vL 13 0
+	 ajout a droite : vL 14 0
+	 Point de depart : (14, 3)  (3, 14) 
+	 ajout a gauche : (15, 4)  (4, 15) 
+	 ajout a gauche : (13, 3)  (3, 13) 
+	 ajout a gauche : (12, 2)  (2, 12) 
+	 ajout a gauche : (11, 2)  (2, 11) 
+	 ajout a gauche : (10, 1)  (1, 10) 
+	 ajout a gauche : (9, 1)  (1, 9) 
+	 ajout a gauche : (8, 0)  (0, 8) 
+	 ajout a gauche : (7, 0)  (0, 7) 
+	 ajout a gauche : (6, 0)  (0, 6) 
+	 ajout a gauche : (5, 0)  (0, 5) 
+	 ajout a gauche : (4, -1)  (-1, 4) 
+	 ajout a gauche : (3, -1)  (-1, 3) 
+	 ajout a gauche : (2, -1)  (-1, 2) 
+	 ajout a gauche : (1, -1)  (-1, 1) 
+vR 0 14
+vL 15 1
+	 ajout a droite : vL 16 1
+	 Point de depart : (16, 5)  (5, 16) 
+	 ajout a gauche : (17, 6)  (6, 17) 
+	 ajout a gauche : (15, 4)  (4, 15) 
+	 ajout a gauche : (14, 3)  (3, 14) 
+	 ajout a gauche : (13, 3)  (3, 13) 
+	 ajout a gauche : (12, 2)  (2, 12) 
+	 ajout a gauche : (11, 2)  (2, 11) 
+	 ajout a gauche : (10, 1)  (1, 10) 
+	 ajout a gauche : (9, 1)  (1, 9) 
+	 ajout a gauche : (8, 0)  (0, 8) 
+	 ajout a gauche : (7, 0)  (0, 7) 
+	 ajout a gauche : (6, 0)  (0, 6) 
+	 ajout a gauche : (5, 0)  (0, 5) 
+	 ajout a gauche : (4, -1)  (-1, 4) 
+	 ajout a gauche : (3, -1)  (-1, 3) 
+	 ajout a gauche : (2, -1)  (-1, 2) 
+vR 1 16
+vL 17 2
+	 ajout a droite : vL 18 2
+	 ajout a droite : vL 19 2
+	 Point de depart : (19, 7)  (7, 19) 
+	 ajout a gauche : (20, 8)  (8, 20) 
+	 ajout a gauche : (18, 6)  (6, 18) 
+	 ajout a gauche : (17, 6)  (6, 17) 
+	 ajout a gauche : (16, 5)  (5, 16) 
+	 ajout a gauche : (15, 4)  (4, 15) 
+	 ajout a gauche : (14, 3)  (3, 14) 
+	 ajout a gauche : (13, 3)  (3, 13) 
+	 ajout a gauche : (12, 2)  (2, 12) 
+	 ajout a gauche : (11, 2)  (2, 11) 
+	 ajout a gauche : (10, 1)  (1, 10) 
+	 ajout a gauche : (9, 1)  (1, 9) 
+	 ajout a gauche : (8, 0)  (0, 8) 
+	 ajout a gauche : (7, 0)  (0, 7) 
+	 ajout a gauche : (6, 0)  (0, 6) 
+	 ajout a gauche : (5, 0)  (0, 5) 
+	 ajout a gauche : (4, -1)  (-1, 4) 
+	 ajout a gauche : (3, -1)  (-1, 3) 
+vR 2 19
+vL 20 3
+	 Point de depart : (20, 8)  (8, 20) 
+	 ajout a gauche : (21, 9)  (9, 21) 
+	 ajout a gauche : (19, 7)  (7, 19) 
+	 ajout a gauche : (18, 6)  (6, 18) 
+	 ajout a gauche : (17, 6)  (6, 17) 
+	 ajout a gauche : (16, 5)  (5, 16) 
+	 ajout a gauche : (15, 4)  (4, 15) 
+	 ajout a gauche : (14, 3)  (3, 14) 
+	 ajout a gauche : (13, 3)  (3, 13) 
+	 ajout a gauche : (12, 2)  (2, 12) 
+	 ajout a gauche : (11, 2)  (2, 11) 
+	 ajout a gauche : (10, 1)  (1, 10) 
+	 ajout a gauche : (9, 1)  (1, 9) 
+	 ajout a gauche : (8, 0)  (0, 8) 
+	 ajout a gauche : (7, 0)  (0, 7) 
+	 ajout a gauche : (6, 0)  (0, 6) 
+vR 3 20
+vR 4 20
+vR 5 20
+vL 21 6
+	 Point de depart : (21, 9)  (9, 21) 
+	 ajout a gauche : (22, 10)  (10, 22) 
+	 ajout a gauche : (20, 8)  (8, 20) 
+	 ajout a gauche : (19, 7)  (7, 19) 
+	 ajout a gauche : (18, 6)  (6, 18) 
+	 ajout a gauche : (17, 6)  (6, 17) 
+	 ajout a gauche : (16, 5)  (5, 16) 
+	 ajout a gauche : (15, 4)  (4, 15) 
+	 ajout a gauche : (14, 3)  (3, 14) 
+	 ajout a gauche : (13, 3)  (3, 13) 
+	 ajout a gauche : (12, 2)  (2, 12) 
+	 ajout a gauche : (11, 2)  (2, 11) 
+	 ajout a gauche : (10, 1)  (1, 10) 
+	 ajout a gauche : (9, 1)  (1, 9) 
+	 ajout a gauche : (8, 0)  (0, 8) 
+	 ajout a gauche : (7, 0)  (0, 7) 
+vR 6 21
+vL 22 7
+	 ajout a droite : vL 23 7
+	 ajout a droite : vL 24 7
+	 ajout a droite : vL 25 7
+	 Point de depart : (24, 12)  (12, 24) 
+	 ajout a gauche : (25, 13)  (13, 25) 
+	 ajout a gauche : (24, 11)  (11, 24) 
+	 ajout a gauche : (23, 10)  (10, 23) 
+	 ajout a gauche : (22, 10)  (10, 22) 
+	 ajout a gauche : (21, 9)  (9, 21) 
+	 ajout a gauche : (20, 8)  (8, 20) 
+	 ajout a gauche : (19, 7)  (7, 19) 
+	 ajout a gauche : (18, 6)  (6, 18) 
+	 ajout a gauche : (17, 6)  (6, 17) 
+	 ajout a gauche : (16, 5)  (5, 16) 
+	 ajout a gauche : (15, 4)  (4, 15) 
+	 ajout a gauche : (14, 3)  (3, 14) 
+	 ajout a gauche : (13, 3)  (3, 13) 
+	 ajout a gauche : (12, 2)  (2, 12) 
+	 ajout a gauche : (11, 2)  (2, 11) 
+	 ajout a gauche : (10, 1)  (1, 10) 
+	 ajout a gauche : (9, 1)  (1, 9) 
+	 ajout a gauche : (8, 0)  (0, 8) 
+vR 7 25
+vL 26 8
+	 ajout a droite : vL 27 8
+	 Point de depart : (26, 14)  (14, 26) 
+	 ajout a gauche : (26, 15)  (15, 26) 
+	 ajout a gauche : (25, 13)  (13, 25) 
+	 ajout a gauche : (24, 12)  (12, 24) 
+	 ajout a gauche : (24, 11)  (11, 24) 
+	 ajout a gauche : (23, 10)  (10, 23) 
+	 ajout a gauche : (22, 10)  (10, 22) 
+	 ajout a gauche : (21, 9)  (9, 21) 
+	 ajout a gauche : (20, 8)  (8, 20) 
+	 ajout a gauche : (19, 7)  (7, 19) 
+	 ajout a gauche : (18, 6)  (6, 18) 
+vR 8 27
+vR 9 27
+vR 10 27
+vR 11 27
+vR 12 27
+vR 13 27
+vR 14 27
+vR 15 27
+vR 16 27
+vR 17 27
+vL 28 18
+	 ajout a droite : vL 29 18
+	 ajout a droite : vL 30 18
+	 ajout a droite : vL 31 18
+	 Point de depart : (28, 18)  (18, 28) 
+	 ajout a gauche : (28, 19)  (19, 28) 
+	 ajout a gauche : (28, 17)  (17, 28) 
+	 ajout a gauche : (27, 16)  (16, 27) 
+	 ajout a gauche : (26, 15)  (15, 26) 
+	 ajout a gauche : (26, 14)  (14, 26) 
+	 ajout a gauche : (25, 13)  (13, 25) 
+	 ajout a gauche : (24, 12)  (12, 24) 
+	 ajout a gauche : (24, 11)  (11, 24) 
+	 ajout a gauche : (23, 10)  (10, 23) 
+	 ajout a gauche : (22, 10)  (10, 22) 
+	 ajout a gauche : (21, 9)  (9, 21) 
+	 ajout a gauche : (20, 8)  (8, 20) 
+vR 18 31
+vR 19 31
+vL 32 20
+	 ajout a droite : vL 33 20
+	 ajout a droite : vL 34 20
+	 Point de depart : (29, 21)  (21, 29) 
+	 ajout a gauche : (29, 22)  (22, 29) 
+	 ajout a gauche : (28, 20)  (20, 28) 
+	 ajout a gauche : (28, 19)  (19, 28) 
+	 ajout a gauche : (28, 18)  (18, 28) 
+	 ajout a gauche : (28, 17)  (17, 28) 
+	 ajout a gauche : (27, 16)  (16, 27) 
+	 ajout a gauche : (26, 15)  (15, 26) 
+	 ajout a gauche : (26, 14)  (14, 26) 
+	 ajout a gauche : (25, 13)  (13, 25) 
+	 ajout a gauche : (24, 12)  (12, 24) 
+	 ajout a gauche : (24, 11)  (11, 24) 
+	 ajout a gauche : (23, 10)  (10, 23) 
+	 ajout a gauche : (22, 10)  (10, 22) 
+vR 20 34
+vR 21 34
+vL 35 22
+	 Point de depart : (29, 22)  (22, 29) 
+	 ajout a gauche : (29, 23)  (23, 29) 
+	 ajout a gauche : (29, 21)  (21, 29) 
+	 ajout a gauche : (28, 20)  (20, 28) 
+	 ajout a gauche : (28, 19)  (19, 28) 
+	 ajout a gauche : (28, 18)  (18, 28) 
+	 ajout a gauche : (28, 17)  (17, 28) 
+	 ajout a gauche : (27, 16)  (16, 27) 
+	 ajout a gauche : (26, 15)  (15, 26) 
+	 ajout a gauche : (26, 14)  (14, 26) 
+	 ajout a gauche : (25, 13)  (13, 25) 
+	 ajout a gauche : (24, 12)  (12, 24) 
+	 ajout a gauche : (24, 11)  (11, 24) 
+	 ajout a gauche : (23, 10)  (10, 23) 
+vR 22 35
+vL 36 23
+	 ajout a droite : vL 37 23
+	 ajout a droite : vL 38 23
+	 ajout a droite : vL 39 23
+	 Point de depart : (30, 26)  (26, 30) 
+	 ajout a gauche : (30, 27)  (27, 30) 
+	 ajout a gauche : (30, 25)  (25, 30) 
+	 ajout a gauche : (30, 24)  (24, 30) 
+	 ajout a gauche : (29, 23)  (23, 29) 
+	 ajout a gauche : (29, 22)  (22, 29) 
+	 ajout a gauche : (29, 21)  (21, 29) 
+	 ajout a gauche : (28, 20)  (20, 28) 
+	 ajout a gauche : (28, 19)  (19, 28) 
+	 ajout a gauche : (28, 18)  (18, 28) 
+	 ajout a gauche : (28, 17)  (17, 28) 
+	 ajout a gauche : (27, 16)  (16, 27) 
+	 ajout a gauche : (26, 15)  (15, 26) 
+	 ajout a gauche : (26, 14)  (14, 26) 
+	 ajout a gauche : (25, 13)  (13, 25) 
+vR 23 39
+vR 24 39
+vR 25 39
+vL 40 26
+	 ajout a droite : vL 41 26
+	 ajout a droite : vL 42 26
+	 ajout a droite : vL 43 26
+	 ajout a droite : vL 44 26
+	 Point de depart : (30, 31)  (31, 30) 
+	 ajout a gauche : (30, 32)  (32, 30) 
+	 ajout a gauche : (30, 30)  (30, 30) 
+	 ajout a gauche : (30, 29)  (29, 30) 
+	 ajout a gauche : (30, 28)  (28, 30) 
+	 ajout a gauche : (30, 27)  (27, 30) 
+	 ajout a gauche : (30, 26)  (26, 30) 
+	 ajout a gauche : (30, 25)  (25, 30) 
+	 ajout a gauche : (30, 24)  (24, 30) 
+	 ajout a gauche : (29, 23)  (23, 29) 
+	 ajout a gauche : (29, 22)  (22, 29) 
+	 ajout a gauche : (29, 21)  (21, 29) 
+	 ajout a gauche : (28, 20)  (20, 28) 
+	 ajout a gauche : (28, 19)  (19, 28) 
+	 ajout a gauche : (28, 18)  (18, 28) 
+	 ajout a gauche : (28, 17)  (17, 28) 
+	 ajout a gauche : (27, 16)  (16, 27) 
+	 ajout a gauche : (26, 15)  (15, 26) 
+	 ajout a gauche : (26, 14)  (14, 26) 
+vR 26 44
+vL 45 27
+	 Point de depart : (30, 32)  (32, 30) 
+	 ajout a gauche : (30, 33)  (33, 30) 
+	 ajout a gauche : (30, 31)  (31, 30) 
+	 ajout a gauche : (30, 30)  (30, 30) 
+	 ajout a gauche : (30, 29)  (29, 30) 
+	 ajout a gauche : (30, 28)  (28, 30) 
+	 ajout a gauche : (30, 27)  (27, 30) 
+	 ajout a gauche : (30, 26)  (26, 30) 
+	 ajout a gauche : (30, 25)  (25, 30) 
+	 ajout a gauche : (30, 24)  (24, 30) 
+	 ajout a gauche : (29, 23)  (23, 29) 
+	 ajout a gauche : (29, 22)  (22, 29) 
+	 ajout a gauche : (29, 21)  (21, 29) 
+	 ajout a gauche : (28, 20)  (20, 28) 
+	 ajout a gauche : (28, 19)  (19, 28) 
+	 ajout a gauche : (28, 18)  (18, 28) 
+	 ajout a gauche : (28, 17)  (17, 28) 
+	 ajout a gauche : (27, 16)  (16, 27) 
+vR 27 45
+vR 28 45
+vL 46 29
+	 ajout a droite : vL 47 29
+	 ajout a droite : vL 48 29
+	 ajout a droite : vL 49 29
+	 ajout a droite : vL 50 29
+	 ajout a droite : vL 51 29
+	 ajout a droite : vL 52 29
+	 ajout a droite : vL 53 29
+	 ajout a droite : vL 54 29
+	 ajout a droite : vL 55 29
+	 Point de depart : (31, 42)  (42, 31) 
+	 ajout a gauche : (30, 43)  (43, 30) 
+	 ajout a gauche : (31, 41)  (41, 31) 
+	 ajout a gauche : (31, 40)  (40, 31) 
+	 ajout a gauche : (31, 39)  (39, 31) 
+	 ajout a gauche : (31, 38)  (38, 31) 
+	 ajout a gauche : (31, 37)  (37, 31) 
+	 ajout a gauche : (31, 36)  (36, 31) 
+	 ajout a gauche : (31, 35)  (35, 31) 
+	 ajout a gauche : (30, 34)  (34, 30) 
+	 ajout a gauche : (30, 33)  (33, 30) 
+	 ajout a gauche : (30, 32)  (32, 30) 
+	 ajout a gauche : (30, 31)  (31, 30) 
+	 ajout a gauche : (30, 30)  (30, 30) 
+	 ajout a gauche : (30, 29)  (29, 30) 
+	 ajout a gauche : (30, 28)  (28, 30) 
+	 ajout a gauche : (30, 27)  (27, 30) 
+	 ajout a gauche : (30, 26)  (26, 30) 
+	 ajout a gauche : (30, 25)  (25, 30) 
+	 ajout a gauche : (30, 24)  (24, 30) 
+	 ajout a gauche : (29, 23)  (23, 29) 
+	 ajout a gauche : (29, 22)  (22, 29) 
+	 ajout a gauche : (29, 21)  (21, 29) 
+	 ajout a gauche : (28, 20)  (20, 28) 
+	 ajout a gauche : (28, 19)  (19, 28) 
+	 ajout a gauche : (28, 18)  (18, 28) 
+	 ajout a gauche : (28, 17)  (17, 28) 
+vR 29 55
+vL 56 30
+	 ajout a droite : vL 57 30
+	 ajout a droite : vL 58 30
+	 ajout a droite : vL 59 30
+	 ajout a droite : vL 60 30
+	 ajout a droite : vL 61 30
+	 ajout a droite : vL 62 30
+	 ajout a droite : vL 63 30
+	 ajout a droite : vL 64 30
+	 ajout a droite : vL 65 30
+	 ajout a droite : vL 66 30
+	 ajout a droite : vL 67 30
+	 ajout a droite : vL 68 30
+	 Point de depart : (32, 55)  (55, 32) 
+	 ajout a gauche : (33, 56)  (56, 33) 
+	 ajout a gauche : (32, 54)  (54, 32) 
+	 ajout a gauche : (32, 53)  (53, 32) 
+	 ajout a gauche : (31, 52)  (52, 31) 
+	 ajout a gauche : (31, 51)  (51, 31) 
+	 ajout a gauche : (31, 50)  (50, 31) 
+	 ajout a gauche : (31, 49)  (49, 31) 
+	 ajout a gauche : (31, 48)  (48, 31) 
+	 ajout a gauche : (30, 47)  (47, 30) 
+	 ajout a gauche : (30, 46)  (46, 30) 
+	 ajout a gauche : (30, 45)  (45, 30) 
+	 ajout a gauche : (30, 44)  (44, 30) 
+	 ajout a gauche : (30, 43)  (43, 30) 
+	 ajout a gauche : (31, 42)  (42, 31) 
+	 ajout a gauche : (31, 41)  (41, 31) 
+	 ajout a gauche : (31, 40)  (40, 31) 
+	 ajout a gauche : (31, 39)  (39, 31) 
+vR 30 68
+vR 31 68
+vR 32 68
+vR 33 68
+vR 34 68
+vR 35 68
+vR 36 68
+vR 37 68
+vR 38 68
+vR 39 68
+vR 40 68
+vR 41 68
+vR 42 68
+vR 43 68
+vR 44 68
+vR 45 68
+vR 46 68
+vR 47 68
+vR 48 68
+vR 49 68
+vR 50 68
+vR 51 68
+vL 69 52
+	 ajout a droite : vL 70 52
+	 ajout a droite : vL 71 52
+	 ajout a droite : vL 72 52
+	 Point de depart : (33, 59)  (59, 33) 
+	 ajout a gauche : (34, 60)  (60, 34) 
+	 ajout a gauche : (33, 58)  (58, 33) 
+	 ajout a gauche : (33, 57)  (57, 33) 
+	 ajout a gauche : (33, 56)  (56, 33) 
+	 ajout a gauche : (32, 55)  (55, 32) 
+	 ajout a gauche : (32, 54)  (54, 32) 
+	 ajout a gauche : (32, 53)  (53, 32) 
+	 ajout a gauche : (31, 52)  (52, 31) 
+	 ajout a gauche : (31, 51)  (51, 31) 
+	 ajout a gauche : (31, 50)  (50, 31) 
+	 ajout a gauche : (31, 49)  (49, 31) 
+	 ajout a gauche : (31, 48)  (48, 31) 
+	 ajout a gauche : (30, 47)  (47, 30) 
+	 ajout a gauche : (30, 46)  (46, 30) 
+	 ajout a gauche : (30, 45)  (45, 30) 
+	 ajout a gauche : (30, 44)  (44, 30) 
+	 ajout a gauche : (30, 43)  (43, 30) 
+	 ajout a gauche : (31, 42)  (42, 31) 
+	 ajout a gauche : (31, 41)  (41, 31) 
+vR 52 72
+vR 53 72
+vL 73 54
+	 ajout a droite : vL 74 54
+	 ajout a droite : vL 75 54
+	 ajout a droite : vL 76 54
+	 ajout a droite : vL 77 54
+	 Point de depart : (34, 64)  (64, 34) 
+	 ajout a gauche : (35, 65)  (65, 35) 
+	 ajout a gauche : (34, 63)  (63, 34) 
+	 ajout a gauche : (34, 62)  (62, 34) 
+	 ajout a gauche : (34, 61)  (61, 34) 
+	 ajout a gauche : (34, 60)  (60, 34) 
+	 ajout a gauche : (33, 59)  (59, 33) 
+	 ajout a gauche : (33, 58)  (58, 33) 
+	 ajout a gauche : (33, 57)  (57, 33) 
+	 ajout a gauche : (33, 56)  (56, 33) 
+	 ajout a gauche : (32, 55)  (55, 32) 
+	 ajout a gauche : (32, 54)  (54, 32) 
+	 ajout a gauche : (32, 53)  (53, 32) 
+	 ajout a gauche : (31, 52)  (52, 31) 
+	 ajout a gauche : (31, 51)  (51, 31) 
+	 ajout a gauche : (31, 50)  (50, 31) 
+	 ajout a gauche : (31, 49)  (49, 31) 
+	 ajout a gauche : (31, 48)  (48, 31) 
+	 ajout a gauche : (30, 47)  (47, 30) 
+	 ajout a gauche : (30, 46)  (46, 30) 
+	 ajout a gauche : (30, 45)  (45, 30) 
+	 ajout a gauche : (30, 44)  (44, 30) 
+	 ajout a gauche : (30, 43)  (43, 30) 
+	 ajout a gauche : (31, 42)  (42, 31) 
+vR 54 77
+vL 78 55
+	 ajout a droite : vL 79 55
+	 ajout a droite : vL 80 55
+	 ajout a droite : vL 81 55
+	 ajout a droite : vL 82 55
+	 Point de depart : (36, 69)  (69, 36) 
+	 ajout a gauche : (37, 69)  (69, 37) 
+	 ajout a gauche : (35, 68)  (68, 35) 
+	 ajout a gauche : (35, 67)  (67, 35) 
+	 ajout a gauche : (35, 66)  (66, 35) 
+	 ajout a gauche : (35, 65)  (65, 35) 
+	 ajout a gauche : (34, 64)  (64, 34) 
+	 ajout a gauche : (34, 63)  (63, 34) 
+	 ajout a gauche : (34, 62)  (62, 34) 
+	 ajout a gauche : (34, 61)  (61, 34) 
+	 ajout a gauche : (34, 60)  (60, 34) 
+	 ajout a gauche : (33, 59)  (59, 33) 
+	 ajout a gauche : (33, 58)  (58, 33) 
+	 ajout a gauche : (33, 57)  (57, 33) 
+	 ajout a gauche : (33, 56)  (56, 33) 
+	 ajout a gauche : (32, 55)  (55, 32) 
+	 ajout a gauche : (32, 54)  (54, 32) 
+	 ajout a gauche : (32, 53)  (53, 32) 
+	 ajout a gauche : (31, 52)  (52, 31) 
+	 ajout a gauche : (31, 51)  (51, 31) 
+	 ajout a gauche : (31, 50)  (50, 31) 
+	 ajout a gauche : (31, 49)  (49, 31) 
+	 ajout a gauche : (31, 48)  (48, 31) 
+	 ajout a gauche : (30, 47)  (47, 30) 
+	 ajout a gauche : (30, 46)  (46, 30) 
+	 ajout a gauche : (30, 45)  (45, 30) 
+	 ajout a gauche : (30, 44)  (44, 30) 
+	 ajout a gauche : (30, 43)  (43, 30) 
+vR 55 82
+vL 83 56
+	 Point de depart : (37, 69)  (69, 37) 
+	 ajout a gauche : (38, 70)  (70, 38) 
+	 ajout a gauche : (36, 69)  (69, 36) 
+	 ajout a gauche : (35, 68)  (68, 35) 
+	 ajout a gauche : (35, 67)  (67, 35) 
+	 ajout a gauche : (35, 66)  (66, 35) 
+	 ajout a gauche : (35, 65)  (65, 35) 
+	 ajout a gauche : (34, 64)  (64, 34) 
+	 ajout a gauche : (34, 63)  (63, 34) 
+vR 56 83
+vR 57 83
+vR 58 83
+vR 59 83
+vR 60 83
+vR 61 83
+vR 62 83
+vR 63 83
+vR 64 83
+vR 65 83
+vR 66 83
+vR 67 83
+vR 68 83
+vR 69 83
+vR 70 83
+vR 71 83
+vR 72 83
+vR 73 83
+vR 74 83
+vR 75 83
+vL 84 76
+	 Point de depart : (38, 70)  (70, 38) 
+	 ajout a gauche : (39, 71)  (71, 39) 
+	 ajout a gauche : (37, 69)  (69, 37) 
+	 ajout a gauche : (36, 69)  (69, 36) 
+	 ajout a gauche : (35, 68)  (68, 35) 
+	 ajout a gauche : (35, 67)  (67, 35) 
+vR 76 84
+vR 77 84
+vR 78 84
+vR 79 84
+vL 85 80
+	 ajout a droite : vL 86 80
+	 Point de depart : (39, 72)  (72, 39) 
+	 ajout a gauche : (38, 73)  (73, 38) 
+	 ajout a gauche : (39, 71)  (71, 39) 
+	 ajout a gauche : (38, 70)  (70, 38) 
+	 ajout a gauche : (37, 69)  (69, 37) 
+vR 80 86
+vR 81 86
+vR 82 86
+vL 87 83
+	 ajout a droite : vL 88 83
+	 Point de depart : (38, 74)  (74, 38) 
+	 ajout a gauche : (37, 75)  (75, 37) 
+	 ajout a gauche : (38, 73)  (73, 38) 
+	 ajout a gauche : (39, 72)  (72, 39) 
+	 ajout a gauche : (39, 71)  (71, 39) 
+	 ajout a gauche : (38, 70)  (70, 38) 
+vR 83 88
+vL 89 84
+	 ajout a droite : vL 90 84
+	 ajout a droite : vL 91 84
+	 ajout a droite : vL 92 84
+	 ajout a droite : vL 93 84
+	 ajout a droite : vL 94 84
+	 ajout a droite : vL 95 84
+	 ajout a droite : vL 96 84
+	 ajout a droite : vL 97 84
+	 ajout a droite : vL 98 84
+	 ajout a droite : vL 99 84
+	 ajout a droite : vL 100 84
+	 ajout a droite : vL 101 84
+	 ajout a droite : vL 102 84
+	 ajout a droite : vL 103 84
+	 ajout a droite : vL 104 84
+	 ajout a droite : vL 105 84
+	 ajout a droite : vL 106 84
+	 ajout a droite : vL 107 84
+	 ajout a droite : vL 108 84
+	 ajout a droite : vL 109 84
+	 ajout a droite : vL 110 84
+	 ajout a droite : vL 111 84
+	 ajout a droite : vL 112 84
+	 ajout a droite : vL 113 84
+	 ajout a droite : vL 114 84
+	 ajout a droite : vL 115 84
+	 ajout a droite : vL 116 84
+	 ajout a droite : vL 117 84
+	 ajout a droite : vL 118 84
+	 Point de depart : (29, 104)  (104, 29) 
+	 ajout a gauche : (28, 105)  (105, 28) 
+	 ajout a gauche : (29, 103)  (103, 29) 
+	 ajout a gauche : (30, 102)  (102, 30) 
+	 ajout a gauche : (30, 101)  (101, 30) 
+	 ajout a gauche : (30, 100)  (100, 30) 
+	 ajout a gauche : (31, 99)  (99, 31) 
+	 ajout a gauche : (32, 98)  (98, 32) 
+	 ajout a gauche : (32, 97)  (97, 32) 
+	 ajout a gauche : (32, 96)  (96, 32) 
+	 ajout a gauche : (32, 95)  (95, 32) 
+	 ajout a gauche : (33, 94)  (94, 33) 
+	 ajout a gauche : (33, 93)  (93, 33) 
+	 ajout a gauche : (33, 92)  (92, 33) 
+	 ajout a gauche : (33, 91)  (91, 33) 
+	 ajout a gauche : (34, 90)  (90, 34) 
+	 ajout a gauche : (34, 89)  (89, 34) 
+	 ajout a gauche : (34, 88)  (88, 34) 
+	 ajout a gauche : (34, 87)  (87, 34) 
+	 ajout a gauche : (34, 86)  (86, 34) 
+	 ajout a gauche : (34, 85)  (85, 34) 
+	 ajout a gauche : (35, 84)  (84, 35) 
+	 ajout a gauche : (35, 83)  (83, 35) 
+	 ajout a gauche : (35, 82)  (82, 35) 
+	 ajout a gauche : (36, 81)  (81, 36) 
+	 ajout a gauche : (36, 80)  (80, 36) 
+	 ajout a gauche : (36, 79)  (79, 36) 
+	 ajout a gauche : (36, 78)  (78, 36) 
+vR 84 118
+vR 85 118
+vR 86 118
+vR 87 118
+vR 88 118
+vR 89 118
+vR 90 118
+vR 91 118
+vL 119 92
+	 ajout a droite : vL 120 92
+	 Point de depart : (28, 106)  (106, 28) 
+	 ajout a gauche : (27, 107)  (107, 27) 
+	 ajout a gauche : (28, 105)  (105, 28) 
+	 ajout a gauche : (29, 104)  (104, 29) 
+	 ajout a gauche : (29, 103)  (103, 29) 
+	 ajout a gauche : (30, 102)  (102, 30) 
+	 ajout a gauche : (30, 101)  (101, 30) 
+	 ajout a gauche : (30, 100)  (100, 30) 
+	 ajout a gauche : (31, 99)  (99, 31) 
+	 ajout a gauche : (32, 98)  (98, 32) 
+	 ajout a gauche : (32, 97)  (97, 32) 
+	 ajout a gauche : (32, 96)  (96, 32) 
+	 ajout a gauche : (32, 95)  (95, 32) 
+	 ajout a gauche : (33, 94)  (94, 33) 
+	 ajout a gauche : (33, 93)  (93, 33) 
+	 ajout a gauche : (33, 92)  (92, 33) 
+	 ajout a gauche : (33, 91)  (91, 33) 
+	 ajout a gauche : (34, 90)  (90, 34) 
+	 ajout a gauche : (34, 89)  (89, 34) 
+	 ajout a gauche : (34, 88)  (88, 34) 
+	 ajout a gauche : (34, 87)  (87, 34) 
+vR 92 120
+vR 93 120
+vR 94 120
+vR 95 120
+vR 96 120
+vR 97 120
+vR 98 120
+vR 99 120
+vR 100 120
+vL 121 101
+	 Point de depart : (27, 107)  (107, 27) 
+	 ajout a gauche : (26, 107)  (107, 26) 
+	 ajout a gauche : (28, 106)  (106, 28) 
+	 ajout a gauche : (28, 105)  (105, 28) 
+	 ajout a gauche : (29, 104)  (104, 29) 
+	 ajout a gauche : (29, 103)  (103, 29) 
+	 ajout a gauche : (30, 102)  (102, 30) 
+	 ajout a gauche : (30, 101)  (101, 30) 
+	 ajout a gauche : (30, 100)  (100, 30) 
+	 ajout a gauche : (31, 99)  (99, 31) 
+	 ajout a gauche : (32, 98)  (98, 32) 
+	 ajout a gauche : (32, 97)  (97, 32) 
+	 ajout a gauche : (32, 96)  (96, 32) 
+	 ajout a gauche : (32, 95)  (95, 32) 
+	 ajout a gauche : (33, 94)  (94, 33) 
+	 ajout a gauche : (33, 93)  (93, 33) 
+	 ajout a gauche : (33, 92)  (92, 33) 
+vR 101 121
+vR 102 121
+vR 103 121
+vR 104 121
+vR 105 121
+vL 122 106
+	 Point de depart : (26, 107)  (107, 26) 
+	 ajout a gauche : (25, 108)  (108, 25) 
+	 ajout a gauche : (27, 107)  (107, 27) 
+	 ajout a gauche : (28, 106)  (106, 28) 
+	 ajout a gauche : (28, 105)  (105, 28) 
+	 ajout a gauche : (29, 104)  (104, 29) 
+	 ajout a gauche : (29, 103)  (103, 29) 
+	 ajout a gauche : (30, 102)  (102, 30) 
+	 ajout a gauche : (30, 101)  (101, 30) 
+	 ajout a gauche : (30, 100)  (100, 30) 
+	 ajout a gauche : (31, 99)  (99, 31) 
+	 ajout a gauche : (32, 98)  (98, 32) 
+	 ajout a gauche : (32, 97)  (97, 32) 
+	 ajout a gauche : (32, 96)  (96, 32) 
+	 ajout a gauche : (32, 95)  (95, 32) 
+	 ajout a gauche : (33, 94)  (94, 33) 
+	 ajout a gauche : (33, 93)  (93, 33) 
+vR 106 122
+vL 123 107
+	 Point de depart : (25, 108)  (108, 25) 
+	 ajout a gauche : (24, 109)  (109, 24) 
+	 ajout a gauche : (26, 107)  (107, 26) 
+	 ajout a gauche : (27, 107)  (107, 27) 
+	 ajout a gauche : (28, 106)  (106, 28) 
+	 ajout a gauche : (28, 105)  (105, 28) 
+	 ajout a gauche : (29, 104)  (104, 29) 
+	 ajout a gauche : (29, 103)  (103, 29) 
+	 ajout a gauche : (30, 102)  (102, 30) 
+	 ajout a gauche : (30, 101)  (101, 30) 
+vR 107 123
+vR 108 123
+vR 109 123
+vR 110 123
+vR 111 123
+vR 112 123
+vR 113 123
+vR 114 123
+vL 124 115
+	 ajout a droite : vL 125 115
+	 ajout a droite : vL 126 115
+	 Point de depart : (22, 111)  (111, 22) 
+	 ajout a gauche : (21, 111)  (111, 21) 
+	 ajout a gauche : (23, 110)  (110, 23) 
+	 ajout a gauche : (24, 109)  (109, 24) 
+	 ajout a gauche : (25, 108)  (108, 25) 
+	 ajout a gauche : (26, 107)  (107, 26) 
+	 ajout a gauche : (27, 107)  (107, 27) 
+	 ajout a gauche : (28, 106)  (106, 28) 
+	 ajout a gauche : (28, 105)  (105, 28) 
+	 ajout a gauche : (29, 104)  (104, 29) 
+vR 115 126
+vR 116 126
+vR 117 126
+vL 127 118
+	 ajout a droite : vL 128 118
+	 ajout a droite : vL 129 118
+	 ajout a droite : vL 130 118
+	 Point de depart : (18, 112)  (112, 18) 
+	 ajout a gauche : (17, 112)  (112, 17) 
+	 ajout a gauche : (19, 112)  (112, 19) 
+	 ajout a gauche : (20, 112)  (112, 20) 
+	 ajout a gauche : (21, 111)  (111, 21) 
+	 ajout a gauche : (22, 111)  (111, 22) 
+	 ajout a gauche : (23, 110)  (110, 23) 
+	 ajout a gauche : (24, 109)  (109, 24) 
+	 ajout a gauche : (25, 108)  (108, 25) 
+	 ajout a gauche : (26, 107)  (107, 26) 
+	 ajout a gauche : (27, 107)  (107, 27) 
+	 ajout a gauche : (28, 106)  (106, 28) 
+vR 118 130
+vR 119 130
+vL 131 120
+	 ajout a droite : vL 132 120
+	 ajout a droite : vL 133 120
+	 Point de depart : (15, 113)  (113, 15) 
+	 ajout a gauche : (14, 113)  (113, 14) 
+	 ajout a gauche : (16, 113)  (113, 16) 
+	 ajout a gauche : (17, 112)  (112, 17) 
+	 ajout a gauche : (18, 112)  (112, 18) 
+	 ajout a gauche : (19, 112)  (112, 19) 
+	 ajout a gauche : (20, 112)  (112, 20) 
+	 ajout a gauche : (21, 111)  (111, 21) 
+	 ajout a gauche : (22, 111)  (111, 22) 
+	 ajout a gauche : (23, 110)  (110, 23) 
+	 ajout a gauche : (24, 109)  (109, 24) 
+	 ajout a gauche : (25, 108)  (108, 25) 
+vR 120 133
+vR 121 133
+vR 122 133
+vL 134 123
+	 ajout a droite : vL 135 123
+	 Point de depart : (13, 113)  (113, 13) 
+	 ajout a gauche : (12, 113)  (113, 12) 
+	 ajout a gauche : (14, 113)  (113, 14) 
+	 ajout a gauche : (15, 113)  (113, 15) 
+	 ajout a gauche : (16, 113)  (113, 16) 
+	 ajout a gauche : (17, 112)  (112, 17) 
+	 ajout a gauche : (18, 112)  (112, 18) 
+	 ajout a gauche : (19, 112)  (112, 19) 
+	 ajout a gauche : (20, 112)  (112, 20) 
+	 ajout a gauche : (21, 111)  (111, 21) 
+	 ajout a gauche : (22, 111)  (111, 22) 
+	 ajout a gauche : (23, 110)  (110, 23) 
+	 ajout a gauche : (24, 109)  (109, 24) 
+vR 123 135
+vL 136 124
+	 ajout a droite : vL 137 124
+	 ajout a droite : vL 138 124
+	 ajout a droite : vL 139 124
+	 Point de depart : (9, 113)  (113, 9) 
+	 ajout a gauche : (8, 113)  (113, 8) 
+	 ajout a gauche : (10, 113)  (113, 10) 
+	 ajout a gauche : (11, 113)  (113, 11) 
+	 ajout a gauche : (12, 113)  (113, 12) 
+	 ajout a gauche : (13, 113)  (113, 13) 
+	 ajout a gauche : (14, 113)  (113, 14) 
+	 ajout a gauche : (15, 113)  (113, 15) 
+	 ajout a gauche : (16, 113)  (113, 16) 
+	 ajout a gauche : (17, 112)  (112, 17) 
+	 ajout a gauche : (18, 112)  (112, 18) 
+	 ajout a gauche : (19, 112)  (112, 19) 
+	 ajout a gauche : (20, 112)  (112, 20) 
+	 ajout a gauche : (21, 111)  (111, 21) 
+	 ajout a gauche : (22, 111)  (111, 22) 
+	 ajout a gauche : (23, 110)  (110, 23) 
+vR 124 139
+vL 140 125
+	 ajout a droite : vL 141 125
+	 ajout a droite : vL 142 125
+	 Point de depart : (6, 113)  (113, 6) 
+	 ajout a gauche : (5, 112)  (112, 5) 
+	 ajout a gauche : (7, 113)  (113, 7) 
+	 ajout a gauche : (8, 113)  (113, 8) 
+	 ajout a gauche : (9, 113)  (113, 9) 
+	 ajout a gauche : (10, 113)  (113, 10) 
+	 ajout a gauche : (11, 113)  (113, 11) 
+	 ajout a gauche : (12, 113)  (113, 12) 
+	 ajout a gauche : (13, 113)  (113, 13) 
+	 ajout a gauche : (14, 113)  (113, 14) 
+	 ajout a gauche : (15, 113)  (113, 15) 
+	 ajout a gauche : (16, 113)  (113, 16) 
+	 ajout a gauche : (17, 112)  (112, 17) 
+	 ajout a gauche : (18, 112)  (112, 18) 
+	 ajout a gauche : (19, 112)  (112, 19) 
+	 ajout a gauche : (20, 112)  (112, 20) 
+	 ajout a gauche : (21, 111)  (111, 21) 
+	 ajout a gauche : (22, 111)  (111, 22) 
+vR 125 142
+vL 143 126
+	 ajout a droite : vL 144 126
+	 ajout a droite : vL 145 126
+	 Point de depart : (3, 112)  (112, 3) 
+	 ajout a gauche : (2, 111)  (111, 2) 
+	 ajout a gauche : (4, 112)  (112, 4) 
+	 ajout a gauche : (5, 112)  (112, 5) 
+	 ajout a gauche : (6, 113)  (113, 6) 
+	 ajout a gauche : (7, 113)  (113, 7) 
+	 ajout a gauche : (8, 113)  (113, 8) 
+	 ajout a gauche : (9, 113)  (113, 9) 
+	 ajout a gauche : (10, 113)  (113, 10) 
+	 ajout a gauche : (11, 113)  (113, 11) 
+	 ajout a gauche : (12, 113)  (113, 12) 
+	 ajout a gauche : (13, 113)  (113, 13) 
+	 ajout a gauche : (14, 113)  (113, 14) 
+	 ajout a gauche : (15, 113)  (113, 15) 
+	 ajout a gauche : (16, 113)  (113, 16) 
+	 ajout a gauche : (17, 112)  (112, 17) 
+	 ajout a gauche : (18, 112)  (112, 18) 
+	 ajout a gauche : (19, 112)  (112, 19) 
+	 ajout a gauche : (20, 112)  (112, 20) 
+vR 126 145
+vR 127 145
+vL 146 128
+	 ajout a droite : vL 147 128
+	 ajout a droite : vL 148 128
+	 Point de depart : (0, 111)  (111, 0) 
+	 ajout a gauche : (-1, 110)  (110, -1) 
+	 ajout a gauche : (1, 111)  (111, 1) 
+	 ajout a gauche : (2, 111)  (111, 2) 
+	 ajout a gauche : (3, 112)  (112, 3) 
+	 ajout a gauche : (4, 112)  (112, 4) 
+	 ajout a gauche : (5, 112)  (112, 5) 
+	 ajout a gauche : (6, 113)  (113, 6) 
+	 ajout a gauche : (7, 113)  (113, 7) 
+	 ajout a gauche : (8, 113)  (113, 8) 
+	 ajout a gauche : (9, 113)  (113, 9) 
+	 ajout a gauche : (10, 113)  (113, 10) 
+	 ajout a gauche : (11, 113)  (113, 11) 
+	 ajout a gauche : (12, 113)  (113, 12) 
+	 ajout a gauche : (13, 113)  (113, 13) 
+	 ajout a gauche : (14, 113)  (113, 14) 
+	 ajout a gauche : (15, 113)  (113, 15) 
+	 ajout a gauche : (16, 113)  (113, 16) 
+vR 128 148
+vR 129 148
+vR 130 148
+vR 131 148
+vL 149 132
+	 Point de depart : (-1, 110)  (110, -1) 
+	 ajout a gauche : (-2, 109)  (109, -2) 
+	 ajout a gauche : (0, 111)  (111, 0) 
+	 ajout a gauche : (1, 111)  (111, 1) 
+	 ajout a gauche : (2, 111)  (111, 2) 
+	 ajout a gauche : (3, 112)  (112, 3) 
+	 ajout a gauche : (4, 112)  (112, 4) 
+	 ajout a gauche : (5, 112)  (112, 5) 
+	 ajout a gauche : (6, 113)  (113, 6) 
+	 ajout a gauche : (7, 113)  (113, 7) 
+	 ajout a gauche : (8, 113)  (113, 8) 
+	 ajout a gauche : (9, 113)  (113, 9) 
+	 ajout a gauche : (10, 113)  (113, 10) 
+	 ajout a gauche : (11, 113)  (113, 11) 
+	 ajout a gauche : (12, 113)  (113, 12) 
+	 ajout a gauche : (13, 113)  (113, 13) 
+vR 132 149
+vR 133 149
+vR 134 149
+vL 150 135
+	 Point de depart : (-2, 109)  (109, -2) 
+	 ajout a gauche : (-3, 108)  (108, -3) 
+	 ajout a gauche : (-1, 110)  (110, -1) 
+	 ajout a gauche : (0, 111)  (111, 0) 
+	 ajout a gauche : (1, 111)  (111, 1) 
+	 ajout a gauche : (2, 111)  (111, 2) 
+	 ajout a gauche : (3, 112)  (112, 3) 
+	 ajout a gauche : (4, 112)  (112, 4) 
+	 ajout a gauche : (5, 112)  (112, 5) 
+	 ajout a gauche : (6, 113)  (113, 6) 
+	 ajout a gauche : (7, 113)  (113, 7) 
+	 ajout a gauche : (8, 113)  (113, 8) 
+	 ajout a gauche : (9, 113)  (113, 9) 
+	 ajout a gauche : (10, 113)  (113, 10) 
+	 ajout a gauche : (11, 113)  (113, 11) 
+vR 135 150
+vR 136 150
+vL 151 137
+	 Point de depart : (-3, 108)  (108, -3) 
+	 ajout a gauche : (-4, 107)  (107, -4) 
+	 ajout a gauche : (-2, 109)  (109, -2) 
+	 ajout a gauche : (-1, 110)  (110, -1) 
+	 ajout a gauche : (0, 111)  (111, 0) 
+	 ajout a gauche : (1, 111)  (111, 1) 
+	 ajout a gauche : (2, 111)  (111, 2) 
+	 ajout a gauche : (3, 112)  (112, 3) 
+	 ajout a gauche : (4, 112)  (112, 4) 
+	 ajout a gauche : (5, 112)  (112, 5) 
+	 ajout a gauche : (6, 113)  (113, 6) 
+	 ajout a gauche : (7, 113)  (113, 7) 
+vR 137 151
+vR 138 151
+vR 139 151
+vR 140 151
+vL 152 141
+	 Point de depart : (-4, 107)  (107, -4) 
+	 ajout a gauche : (-5, 106)  (106, -5) 
+	 ajout a gauche : (-3, 108)  (108, -3) 
+	 ajout a gauche : (-2, 109)  (109, -2) 
+	 ajout a gauche : (-1, 110)  (110, -1) 
+	 ajout a gauche : (0, 111)  (111, 0) 
+	 ajout a gauche : (1, 111)  (111, 1) 
+	 ajout a gauche : (2, 111)  (111, 2) 
+	 ajout a gauche : (3, 112)  (112, 3) 
+	 ajout a gauche : (4, 112)  (112, 4) 
+vR 141 152
+vR 142 152
+vR 143 152
+vL 153 144
+	 ajout a droite : vL 154 144
+	 ajout a droite : vL 155 144
+	 Point de depart : (-7, 104)  (104, -7) 
+	 ajout a gauche : (-8, 103)  (103, -8) 
+	 ajout a gauche : (-6, 105)  (105, -6) 
+	 ajout a gauche : (-5, 106)  (106, -5) 
+	 ajout a gauche : (-4, 107)  (107, -4) 
+	 ajout a gauche : (-3, 108)  (108, -3) 
+	 ajout a gauche : (-2, 109)  (109, -2) 
+	 ajout a gauche : (-1, 110)  (110, -1) 
+	 ajout a gauche : (0, 111)  (111, 0) 
+	 ajout a gauche : (1, 111)  (111, 1) 
+	 ajout a gauche : (2, 111)  (111, 2) 
+	 ajout a gauche : (3, 112)  (112, 3) 
+vR 144 155
+vL 156 145
+	 ajout a droite : vL 157 145
+	 ajout a droite : vL 158 145
+	 ajout a droite : vL 159 145
+	 Point de depart : (-10, 100)  (100, -10) 
+	 ajout a gauche : (-10, 99)  (99, -10) 
+	 ajout a gauche : (-9, 101)  (101, -9) 
+	 ajout a gauche : (-9, 102)  (102, -9) 
+	 ajout a gauche : (-8, 103)  (103, -8) 
+	 ajout a gauche : (-7, 104)  (104, -7) 
+	 ajout a gauche : (-6, 105)  (105, -6) 
+	 ajout a gauche : (-5, 106)  (106, -5) 
+	 ajout a gauche : (-4, 107)  (107, -4) 
+	 ajout a gauche : (-3, 108)  (108, -3) 
+	 ajout a gauche : (-2, 109)  (109, -2) 
+	 ajout a gauche : (-1, 110)  (110, -1) 
+	 ajout a gauche : (0, 111)  (111, 0) 
+	 ajout a gauche : (1, 111)  (111, 1) 
+vR 145 159
+vR 146 159
+vL 160 147
+	 ajout a droite : vL 161 147
+	 ajout a droite : vL 162 147
+	 ajout a droite : vL 163 147
+	 ajout a droite : vL 164 147
+	 Point de depart : (-14, 95)  (95, -14) 
+	 ajout a gauche : (-14, 94)  (94, -14) 
+	 ajout a gauche : (-13, 96)  (96, -13) 
+	 ajout a gauche : (-12, 97)  (97, -12) 
+	 ajout a gauche : (-11, 98)  (98, -11) 
+	 ajout a gauche : (-10, 99)  (99, -10) 
+	 ajout a gauche : (-10, 100)  (100, -10) 
+	 ajout a gauche : (-9, 101)  (101, -9) 
+	 ajout a gauche : (-9, 102)  (102, -9) 
+	 ajout a gauche : (-8, 103)  (103, -8) 
+	 ajout a gauche : (-7, 104)  (104, -7) 
+	 ajout a gauche : (-6, 105)  (105, -6) 
+	 ajout a gauche : (-5, 106)  (106, -5) 
+	 ajout a gauche : (-4, 107)  (107, -4) 
+	 ajout a gauche : (-3, 108)  (108, -3) 
+	 ajout a gauche : (-2, 109)  (109, -2) 
+	 ajout a gauche : (-1, 110)  (110, -1) 
+	 ajout a gauche : (0, 111)  (111, 0) 
+vR 147 164
+vL 165 148
+	 Point de depart : (-14, 94)  (94, -14) 
+	 ajout a gauche : (-14, 93)  (93, -14) 
+	 ajout a gauche : (-14, 95)  (95, -14) 
+	 ajout a gauche : (-13, 96)  (96, -13) 
+	 ajout a gauche : (-12, 97)  (97, -12) 
+	 ajout a gauche : (-11, 98)  (98, -11) 
+	 ajout a gauche : (-10, 99)  (99, -10) 
+	 ajout a gauche : (-10, 100)  (100, -10) 
+	 ajout a gauche : (-9, 101)  (101, -9) 
+	 ajout a gauche : (-9, 102)  (102, -9) 
+	 ajout a gauche : (-8, 103)  (103, -8) 
+	 ajout a gauche : (-7, 104)  (104, -7) 
+	 ajout a gauche : (-6, 105)  (105, -6) 
+	 ajout a gauche : (-5, 106)  (106, -5) 
+	 ajout a gauche : (-4, 107)  (107, -4) 
+	 ajout a gauche : (-3, 108)  (108, -3) 
+	 ajout a gauche : (-2, 109)  (109, -2) 
+	 ajout a gauche : (-1, 110)  (110, -1) 
+vR 148 165
+vL 166 149
+	 ajout a droite : vL 167 149
+	 ajout a droite : vL 168 149
+	 ajout a droite : vL 169 149
+	 ajout a droite : vL 170 149
+	 ajout a droite : vL 171 149
+	 ajout a droite : vL 172 149
+	 Point de depart : (-19, 87)  (87, -19) 
+	 ajout a gauche : (-19, 86)  (86, -19) 
+	 ajout a gauche : (-18, 88)  (88, -18) 
+	 ajout a gauche : (-18, 89)  (89, -18) 
+	 ajout a gauche : (-17, 90)  (90, -17) 
+	 ajout a gauche : (-16, 91)  (91, -16) 
+	 ajout a gauche : (-15, 92)  (92, -15) 
+	 ajout a gauche : (-14, 93)  (93, -14) 
+	 ajout a gauche : (-14, 94)  (94, -14) 
+	 ajout a gauche : (-14, 95)  (95, -14) 
+	 ajout a gauche : (-13, 96)  (96, -13) 
+	 ajout a gauche : (-12, 97)  (97, -12) 
+	 ajout a gauche : (-11, 98)  (98, -11) 
+	 ajout a gauche : (-10, 99)  (99, -10) 
+	 ajout a gauche : (-10, 100)  (100, -10) 
+	 ajout a gauche : (-9, 101)  (101, -9) 
+	 ajout a gauche : (-9, 102)  (102, -9) 
+	 ajout a gauche : (-8, 103)  (103, -8) 
+	 ajout a gauche : (-7, 104)  (104, -7) 
+	 ajout a gauche : (-6, 105)  (105, -6) 
+	 ajout a gauche : (-5, 106)  (106, -5) 
+	 ajout a gauche : (-4, 107)  (107, -4) 
+	 ajout a gauche : (-3, 108)  (108, -3) 
+	 ajout a gauche : (-2, 109)  (109, -2) 
+vR 149 172
+vL 173 150
+	 ajout a droite : vL 174 150
+	 ajout a droite : vL 175 150
+	 ajout a droite : vL 176 150
+	 ajout a droite : vL 177 150
+	 Point de depart : (-22, 82)  (82, -22) 
+	 ajout a gauche : (-22, 81)  (81, -22) 
+	 ajout a gauche : (-21, 83)  (83, -21) 
+	 ajout a gauche : (-20, 84)  (84, -20) 
+	 ajout a gauche : (-20, 85)  (85, -20) 
+	 ajout a gauche : (-19, 86)  (86, -19) 
+	 ajout a gauche : (-19, 87)  (87, -19) 
+	 ajout a gauche : (-18, 88)  (88, -18) 
+	 ajout a gauche : (-18, 89)  (89, -18) 
+	 ajout a gauche : (-17, 90)  (90, -17) 
+	 ajout a gauche : (-16, 91)  (91, -16) 
+	 ajout a gauche : (-15, 92)  (92, -15) 
+	 ajout a gauche : (-14, 93)  (93, -14) 
+	 ajout a gauche : (-14, 94)  (94, -14) 
+	 ajout a gauche : (-14, 95)  (95, -14) 
+	 ajout a gauche : (-13, 96)  (96, -13) 
+	 ajout a gauche : (-12, 97)  (97, -12) 
+	 ajout a gauche : (-11, 98)  (98, -11) 
+	 ajout a gauche : (-10, 99)  (99, -10) 
+	 ajout a gauche : (-10, 100)  (100, -10) 
+	 ajout a gauche : (-9, 101)  (101, -9) 
+	 ajout a gauche : (-9, 102)  (102, -9) 
+	 ajout a gauche : (-8, 103)  (103, -8) 
+	 ajout a gauche : (-7, 104)  (104, -7) 
+	 ajout a gauche : (-6, 105)  (105, -6) 
+	 ajout a gauche : (-5, 106)  (106, -5) 
+	 ajout a gauche : (-4, 107)  (107, -4) 
+	 ajout a gauche : (-3, 108)  (108, -3) 
+vR 150 177
+vL 178 151
+	 ajout a droite : vL 179 151
+	 Point de depart : (-23, 80)  (80, -23) 
+	 ajout a gauche : (-23, 79)  (79, -23) 
+	 ajout a gauche : (-22, 81)  (81, -22) 
+	 ajout a gauche : (-22, 82)  (82, -22) 
+	 ajout a gauche : (-21, 83)  (83, -21) 
+	 ajout a gauche : (-20, 84)  (84, -20) 
+	 ajout a gauche : (-20, 85)  (85, -20) 
+	 ajout a gauche : (-19, 86)  (86, -19) 
+	 ajout a gauche : (-19, 87)  (87, -19) 
+	 ajout a gauche : (-18, 88)  (88, -18) 
+	 ajout a gauche : (-18, 89)  (89, -18) 
+	 ajout a gauche : (-17, 90)  (90, -17) 
+	 ajout a gauche : (-16, 91)  (91, -16) 
+	 ajout a gauche : (-15, 92)  (92, -15) 
+	 ajout a gauche : (-14, 93)  (93, -14) 
+	 ajout a gauche : (-14, 94)  (94, -14) 
+	 ajout a gauche : (-14, 95)  (95, -14) 
+	 ajout a gauche : (-13, 96)  (96, -13) 
+	 ajout a gauche : (-12, 97)  (97, -12) 
+	 ajout a gauche : (-11, 98)  (98, -11) 
+	 ajout a gauche : (-10, 99)  (99, -10) 
+	 ajout a gauche : (-10, 100)  (100, -10) 
+	 ajout a gauche : (-9, 101)  (101, -9) 
+	 ajout a gauche : (-9, 102)  (102, -9) 
+	 ajout a gauche : (-8, 103)  (103, -8) 
+	 ajout a gauche : (-7, 104)  (104, -7) 
+	 ajout a gauche : (-6, 105)  (105, -6) 
+	 ajout a gauche : (-5, 106)  (106, -5) 
+	 ajout a gauche : (-4, 107)  (107, -4) 
+vR 151 179
+vL 180 152
+	 ajout a droite : vL 181 152
+	 ajout a droite : vL 182 152
+	 ajout a droite : vL 183 152
+	 Point de depart : (-25, 76)  (76, -25) 
+	 ajout a gauche : (-25, 75)  (75, -25) 
+	 ajout a gauche : (-24, 77)  (77, -24) 
+	 ajout a gauche : (-24, 78)  (78, -24) 
+	 ajout a gauche : (-23, 79)  (79, -23) 
+	 ajout a gauche : (-23, 80)  (80, -23) 
+	 ajout a gauche : (-22, 81)  (81, -22) 
+	 ajout a gauche : (-22, 82)  (82, -22) 
+	 ajout a gauche : (-21, 83)  (83, -21) 
+	 ajout a gauche : (-20, 84)  (84, -20) 
+	 ajout a gauche : (-20, 85)  (85, -20) 
+	 ajout a gauche : (-19, 86)  (86, -19) 
+	 ajout a gauche : (-19, 87)  (87, -19) 
+	 ajout a gauche : (-18, 88)  (88, -18) 
+	 ajout a gauche : (-18, 89)  (89, -18) 
+	 ajout a gauche : (-17, 90)  (90, -17) 
+	 ajout a gauche : (-16, 91)  (91, -16) 
+	 ajout a gauche : (-15, 92)  (92, -15) 
+	 ajout a gauche : (-14, 93)  (93, -14) 
+	 ajout a gauche : (-14, 94)  (94, -14) 
+	 ajout a gauche : (-14, 95)  (95, -14) 
+	 ajout a gauche : (-13, 96)  (96, -13) 
+	 ajout a gauche : (-12, 97)  (97, -12) 
+	 ajout a gauche : (-11, 98)  (98, -11) 
+	 ajout a gauche : (-10, 99)  (99, -10) 
+	 ajout a gauche : (-10, 100)  (100, -10) 
+	 ajout a gauche : (-9, 101)  (101, -9) 
+	 ajout a gauche : (-9, 102)  (102, -9) 
+	 ajout a gauche : (-8, 103)  (103, -8) 
+	 ajout a gauche : (-7, 104)  (104, -7) 
+	 ajout a gauche : (-6, 105)  (105, -6) 
+vR 152 183
+vR 153 183
+vL 184 154
+	 ajout a droite : vL 185 154
+	 Point de depart : (-26, 74)  (74, -26) 
+	 ajout a gauche : (-26, 73)  (73, -26) 
+	 ajout a gauche : (-25, 75)  (75, -25) 
+	 ajout a gauche : (-25, 76)  (76, -25) 
+	 ajout a gauche : (-24, 77)  (77, -24) 
+	 ajout a gauche : (-24, 78)  (78, -24) 
+	 ajout a gauche : (-23, 79)  (79, -23) 
+	 ajout a gauche : (-23, 80)  (80, -23) 
+	 ajout a gauche : (-22, 81)  (81, -22) 
+	 ajout a gauche : (-22, 82)  (82, -22) 
+	 ajout a gauche : (-21, 83)  (83, -21) 
+	 ajout a gauche : (-20, 84)  (84, -20) 
+	 ajout a gauche : (-20, 85)  (85, -20) 
+	 ajout a gauche : (-19, 86)  (86, -19) 
+	 ajout a gauche : (-19, 87)  (87, -19) 
+	 ajout a gauche : (-18, 88)  (88, -18) 
+	 ajout a gauche : (-18, 89)  (89, -18) 
+	 ajout a gauche : (-17, 90)  (90, -17) 
+	 ajout a gauche : (-16, 91)  (91, -16) 
+	 ajout a gauche : (-15, 92)  (92, -15) 
+	 ajout a gauche : (-14, 93)  (93, -14) 
+	 ajout a gauche : (-14, 94)  (94, -14) 
+	 ajout a gauche : (-14, 95)  (95, -14) 
+	 ajout a gauche : (-13, 96)  (96, -13) 
+	 ajout a gauche : (-12, 97)  (97, -12) 
+	 ajout a gauche : (-11, 98)  (98, -11) 
+	 ajout a gauche : (-10, 99)  (99, -10) 
+	 ajout a gauche : (-10, 100)  (100, -10) 
+	 ajout a gauche : (-9, 101)  (101, -9) 
+	 ajout a gauche : (-9, 102)  (102, -9) 
+	 ajout a gauche : (-8, 103)  (103, -8) 
+	 ajout a gauche : (-7, 104)  (104, -7) 
+vR 154 185
+vL 186 155
+	 Point de depart : (-26, 73)  (73, -26) 
+	 ajout a gauche : (-26, 72)  (72, -26) 
+	 ajout a gauche : (-26, 74)  (74, -26) 
+	 ajout a gauche : (-25, 75)  (75, -25) 
+	 ajout a gauche : (-25, 76)  (76, -25) 
+	 ajout a gauche : (-24, 77)  (77, -24) 
+	 ajout a gauche : (-24, 78)  (78, -24) 
+	 ajout a gauche : (-23, 79)  (79, -23) 
+	 ajout a gauche : (-23, 80)  (80, -23) 
+	 ajout a gauche : (-22, 81)  (81, -22) 
+	 ajout a gauche : (-22, 82)  (82, -22) 
+	 ajout a gauche : (-21, 83)  (83, -21) 
+	 ajout a gauche : (-20, 84)  (84, -20) 
+	 ajout a gauche : (-20, 85)  (85, -20) 
+	 ajout a gauche : (-19, 86)  (86, -19) 
+	 ajout a gauche : (-19, 87)  (87, -19) 
+	 ajout a gauche : (-18, 88)  (88, -18) 
+	 ajout a gauche : (-18, 89)  (89, -18) 
+	 ajout a gauche : (-17, 90)  (90, -17) 
+	 ajout a gauche : (-16, 91)  (91, -16) 
+	 ajout a gauche : (-15, 92)  (92, -15) 
+	 ajout a gauche : (-14, 93)  (93, -14) 
+	 ajout a gauche : (-14, 94)  (94, -14) 
+	 ajout a gauche : (-14, 95)  (95, -14) 
+	 ajout a gauche : (-13, 96)  (96, -13) 
+	 ajout a gauche : (-12, 97)  (97, -12) 
+	 ajout a gauche : (-11, 98)  (98, -11) 
+vR 155 186
+vR 156 186
+vR 157 186
+vR 158 186
+vR 159 186
+vR 160 186
+vL 187 161
+	 ajout a droite : vL 188 161
+	 ajout a droite : vL 189 161
+	 ajout a droite : vL 190 161
+	 ajout a droite : vL 191 161
+	 ajout a droite : vL 192 161
+	 ajout a droite : vL 193 161
+	 ajout a droite : vL 194 161
+	 Point de depart : (-30, 65)  (65, -30) 
+	 ajout a gauche : (-30, 64)  (64, -30) 
+	 ajout a gauche : (-30, 66)  (66, -30) 
+	 ajout a gauche : (-29, 67)  (67, -29) 
+	 ajout a gauche : (-29, 68)  (68, -29) 
+	 ajout a gauche : (-28, 69)  (69, -28) 
+	 ajout a gauche : (-28, 70)  (70, -28) 
+	 ajout a gauche : (-27, 71)  (71, -27) 
+	 ajout a gauche : (-26, 72)  (72, -26) 
+	 ajout a gauche : (-26, 73)  (73, -26) 
+	 ajout a gauche : (-26, 74)  (74, -26) 
+	 ajout a gauche : (-25, 75)  (75, -25) 
+	 ajout a gauche : (-25, 76)  (76, -25) 
+	 ajout a gauche : (-24, 77)  (77, -24) 
+	 ajout a gauche : (-24, 78)  (78, -24) 
+	 ajout a gauche : (-23, 79)  (79, -23) 
+	 ajout a gauche : (-23, 80)  (80, -23) 
+	 ajout a gauche : (-22, 81)  (81, -22) 
+	 ajout a gauche : (-22, 82)  (82, -22) 
+	 ajout a gauche : (-21, 83)  (83, -21) 
+	 ajout a gauche : (-20, 84)  (84, -20) 
+	 ajout a gauche : (-20, 85)  (85, -20) 
+	 ajout a gauche : (-19, 86)  (86, -19) 
+	 ajout a gauche : (-19, 87)  (87, -19) 
+	 ajout a gauche : (-18, 88)  (88, -18) 
+	 ajout a gauche : (-18, 89)  (89, -18) 
+	 ajout a gauche : (-17, 90)  (90, -17) 
+	 ajout a gauche : (-16, 91)  (91, -16) 
+	 ajout a gauche : (-15, 92)  (92, -15) 
+	 ajout a gauche : (-14, 93)  (93, -14) 
+	 ajout a gauche : (-14, 94)  (94, -14) 
+	 ajout a gauche : (-14, 95)  (95, -14) 
+	 ajout a gauche : (-13, 96)  (96, -13) 
+	 ajout a gauche : (-12, 97)  (97, -12) 
+vR 161 194
+vL 195 162
+	 Point de depart : (-30, 64)  (64, -30) 
+	 ajout a gauche : (-30, 63)  (63, -30) 
+	 ajout a gauche : (-30, 65)  (65, -30) 
+	 ajout a gauche : (-30, 66)  (66, -30) 
+	 ajout a gauche : (-29, 67)  (67, -29) 
+	 ajout a gauche : (-29, 68)  (68, -29) 
+	 ajout a gauche : (-28, 69)  (69, -28) 
+	 ajout a gauche : (-28, 70)  (70, -28) 
+	 ajout a gauche : (-27, 71)  (71, -27) 
+	 ajout a gauche : (-26, 72)  (72, -26) 
+	 ajout a gauche : (-26, 73)  (73, -26) 
+	 ajout a gauche : (-26, 74)  (74, -26) 
+	 ajout a gauche : (-25, 75)  (75, -25) 
+	 ajout a gauche : (-25, 76)  (76, -25) 
+	 ajout a gauche : (-24, 77)  (77, -24) 
+	 ajout a gauche : (-24, 78)  (78, -24) 
+	 ajout a gauche : (-23, 79)  (79, -23) 
+	 ajout a gauche : (-23, 80)  (80, -23) 
+	 ajout a gauche : (-22, 81)  (81, -22) 
+	 ajout a gauche : (-22, 82)  (82, -22) 
+	 ajout a gauche : (-21, 83)  (83, -21) 
+	 ajout a gauche : (-20, 84)  (84, -20) 
+	 ajout a gauche : (-20, 85)  (85, -20) 
+	 ajout a gauche : (-19, 86)  (86, -19) 
+	 ajout a gauche : (-19, 87)  (87, -19) 
+	 ajout a gauche : (-18, 88)  (88, -18) 
+	 ajout a gauche : (-18, 89)  (89, -18) 
+	 ajout a gauche : (-17, 90)  (90, -17) 
+	 ajout a gauche : (-16, 91)  (91, -16) 
+	 ajout a gauche : (-15, 92)  (92, -15) 
+vR 162 195
+vR 163 195
+vR 164 195
+vR 165 195
+vR 166 195
+vL 196 167
+	 Point de depart : (-30, 63)  (63, -30) 
+	 ajout a gauche : (-30, 62)  (62, -30) 
+	 ajout a gauche : (-30, 64)  (64, -30) 
+	 ajout a gauche : (-30, 65)  (65, -30) 
+	 ajout a gauche : (-30, 66)  (66, -30) 
+	 ajout a gauche : (-29, 67)  (67, -29) 
+	 ajout a gauche : (-29, 68)  (68, -29) 
+	 ajout a gauche : (-28, 69)  (69, -28) 
+	 ajout a gauche : (-28, 70)  (70, -28) 
+	 ajout a gauche : (-27, 71)  (71, -27) 
+	 ajout a gauche : (-26, 72)  (72, -26) 
+	 ajout a gauche : (-26, 73)  (73, -26) 
+	 ajout a gauche : (-26, 74)  (74, -26) 
+	 ajout a gauche : (-25, 75)  (75, -25) 
+	 ajout a gauche : (-25, 76)  (76, -25) 
+	 ajout a gauche : (-24, 77)  (77, -24) 
+	 ajout a gauche : (-24, 78)  (78, -24) 
+	 ajout a gauche : (-23, 79)  (79, -23) 
+	 ajout a gauche : (-23, 80)  (80, -23) 
+	 ajout a gauche : (-22, 81)  (81, -22) 
+	 ajout a gauche : (-22, 82)  (82, -22) 
+	 ajout a gauche : (-21, 83)  (83, -21) 
+	 ajout a gauche : (-20, 84)  (84, -20) 
+	 ajout a gauche : (-20, 85)  (85, -20) 
+	 ajout a gauche : (-19, 86)  (86, -19) 
+	 ajout a gauche : (-19, 87)  (87, -19) 
+	 ajout a gauche : (-18, 88)  (88, -18) 
+	 ajout a gauche : (-18, 89)  (89, -18) 
+	 ajout a gauche : (-17, 90)  (90, -17) 
+	 ajout a gauche : (-16, 91)  (91, -16) 
+vR 167 196
+vL 197 168
+	 ajout a droite : vL 198 168
+	 ajout a droite : vL 199 168
+	 Point de depart : (-31, 60)  (60, -31) 
+	 ajout a gauche : (-31, 59)  (59, -31) 
+	 ajout a gauche : (-31, 61)  (61, -31) 
+	 ajout a gauche : (-30, 62)  (62, -30) 
+	 ajout a gauche : (-30, 63)  (63, -30) 
+	 ajout a gauche : (-30, 64)  (64, -30) 
+	 ajout a gauche : (-30, 65)  (65, -30) 
+	 ajout a gauche : (-30, 66)  (66, -30) 
+	 ajout a gauche : (-29, 67)  (67, -29) 
+	 ajout a gauche : (-29, 68)  (68, -29) 
+	 ajout a gauche : (-28, 69)  (69, -28) 
+	 ajout a gauche : (-28, 70)  (70, -28) 
+	 ajout a gauche : (-27, 71)  (71, -27) 
+	 ajout a gauche : (-26, 72)  (72, -26) 
+	 ajout a gauche : (-26, 73)  (73, -26) 
+	 ajout a gauche : (-26, 74)  (74, -26) 
+	 ajout a gauche : (-25, 75)  (75, -25) 
+	 ajout a gauche : (-25, 76)  (76, -25) 
+	 ajout a gauche : (-24, 77)  (77, -24) 
+	 ajout a gauche : (-24, 78)  (78, -24) 
+	 ajout a gauche : (-23, 79)  (79, -23) 
+	 ajout a gauche : (-23, 80)  (80, -23) 
+	 ajout a gauche : (-22, 81)  (81, -22) 
+	 ajout a gauche : (-22, 82)  (82, -22) 
+	 ajout a gauche : (-21, 83)  (83, -21) 
+vR 168 199
+vR 169 199
+vR 170 199
+vR 171 199
+vR 172 199
+vR 173 199
+vR 174 199
+vR 175 199
+vL 200 176
+	 Point de depart : (-31, 59)  (59, -31) 
+	 ajout a gauche : (-31, 58)  (58, -31) 
+	 ajout a gauche : (-31, 60)  (60, -31) 
+	 ajout a gauche : (-31, 61)  (61, -31) 
+	 ajout a gauche : (-30, 62)  (62, -30) 
+	 ajout a gauche : (-30, 63)  (63, -30) 
+	 ajout a gauche : (-30, 64)  (64, -30) 
+	 ajout a gauche : (-30, 65)  (65, -30) 
+	 ajout a gauche : (-30, 66)  (66, -30) 
+	 ajout a gauche : (-29, 67)  (67, -29) 
+	 ajout a gauche : (-29, 68)  (68, -29) 
+	 ajout a gauche : (-28, 69)  (69, -28) 
+	 ajout a gauche : (-28, 70)  (70, -28) 
+	 ajout a gauche : (-27, 71)  (71, -27) 
+	 ajout a gauche : (-26, 72)  (72, -26) 
+	 ajout a gauche : (-26, 73)  (73, -26) 
+	 ajout a gauche : (-26, 74)  (74, -26) 
+	 ajout a gauche : (-25, 75)  (75, -25) 
+	 ajout a gauche : (-25, 76)  (76, -25) 
+	 ajout a gauche : (-24, 77)  (77, -24) 
+	 ajout a gauche : (-24, 78)  (78, -24) 
+vR 176 200
+vR 177 200
+vR 178 200
+vR 179 200
+vR 180 200
+vL 201 181
+	 Point de depart : (-31, 58)  (58, -31) 
+	 ajout a gauche : (-31, 57)  (57, -31) 
+	 ajout a gauche : (-31, 59)  (59, -31) 
+	 ajout a gauche : (-31, 60)  (60, -31) 
+	 ajout a gauche : (-31, 61)  (61, -31) 
+	 ajout a gauche : (-30, 62)  (62, -30) 
+	 ajout a gauche : (-30, 63)  (63, -30) 
+	 ajout a gauche : (-30, 64)  (64, -30) 
+	 ajout a gauche : (-30, 65)  (65, -30) 
+	 ajout a gauche : (-30, 66)  (66, -30) 
+	 ajout a gauche : (-29, 67)  (67, -29) 
+	 ajout a gauche : (-29, 68)  (68, -29) 
+	 ajout a gauche : (-28, 69)  (69, -28) 
+	 ajout a gauche : (-28, 70)  (70, -28) 
+	 ajout a gauche : (-27, 71)  (71, -27) 
+	 ajout a gauche : (-26, 72)  (72, -26) 
+	 ajout a gauche : (-26, 73)  (73, -26) 
+	 ajout a gauche : (-26, 74)  (74, -26) 
+	 ajout a gauche : (-25, 75)  (75, -25) 
+	 ajout a gauche : (-25, 76)  (76, -25) 
+vR 181 201
+vR 182 201
+vL 202 183
+	 ajout a droite : vL 203 183
+	 ajout a droite : vL 204 183
+	 ajout a droite : vL 205 183
+	 ajout a droite : vL 206 183
+	 ajout a droite : vL 207 183
+	 ajout a droite : vL 208 183
+	 Point de depart : (-33, 51)  (51, -33) 
+	 ajout a gauche : (-33, 50)  (50, -33) 
+	 ajout a gauche : (-33, 52)  (52, -33) 
+	 ajout a gauche : (-33, 53)  (53, -33) 
+	 ajout a gauche : (-33, 54)  (54, -33) 
+	 ajout a gauche : (-32, 55)  (55, -32) 
+	 ajout a gauche : (-32, 56)  (56, -32) 
+	 ajout a gauche : (-31, 57)  (57, -31) 
+	 ajout a gauche : (-31, 58)  (58, -31) 
+	 ajout a gauche : (-31, 59)  (59, -31) 
+	 ajout a gauche : (-31, 60)  (60, -31) 
+	 ajout a gauche : (-31, 61)  (61, -31) 
+	 ajout a gauche : (-30, 62)  (62, -30) 
+	 ajout a gauche : (-30, 63)  (63, -30) 
+	 ajout a gauche : (-30, 64)  (64, -30) 
+	 ajout a gauche : (-30, 65)  (65, -30) 
+	 ajout a gauche : (-30, 66)  (66, -30) 
+	 ajout a gauche : (-29, 67)  (67, -29) 
+	 ajout a gauche : (-29, 68)  (68, -29) 
+	 ajout a gauche : (-28, 69)  (69, -28) 
+	 ajout a gauche : (-28, 70)  (70, -28) 
+	 ajout a gauche : (-27, 71)  (71, -27) 
+vR 183 208
+vR 184 208
+vR 185 208
+vR 186 208
+vR 187 208
+vL 209 188
+	 ajout a droite : vL 210 188
+	 ajout a droite : vL 211 188
+	 ajout a droite : vL 212 188
+	 ajout a droite : vL 213 188
+	 ajout a droite : vL 214 188
+	 ajout a droite : vL 215 188
+	 ajout a droite : vL 216 188
+	 ajout a droite : vL 217 188
+	 Point de depart : (-34, 42)  (42, -34) 
+	 ajout a gauche : (-33, 41)  (41, -33) 
+	 ajout a gauche : (-34, 43)  (43, -34) 
+	 ajout a gauche : (-34, 44)  (44, -34) 
+	 ajout a gauche : (-34, 45)  (45, -34) 
+	 ajout a gauche : (-34, 46)  (46, -34) 
+	 ajout a gauche : (-33, 47)  (47, -33) 
+	 ajout a gauche : (-33, 48)  (48, -33) 
+	 ajout a gauche : (-33, 49)  (49, -33) 
+	 ajout a gauche : (-33, 50)  (50, -33) 
+	 ajout a gauche : (-33, 51)  (51, -33) 
+	 ajout a gauche : (-33, 52)  (52, -33) 
+	 ajout a gauche : (-33, 53)  (53, -33) 
+	 ajout a gauche : (-33, 54)  (54, -33) 
+	 ajout a gauche : (-32, 55)  (55, -32) 
+	 ajout a gauche : (-32, 56)  (56, -32) 
+	 ajout a gauche : (-31, 57)  (57, -31) 
+	 ajout a gauche : (-31, 58)  (58, -31) 
+	 ajout a gauche : (-31, 59)  (59, -31) 
+	 ajout a gauche : (-31, 60)  (60, -31) 
+	 ajout a gauche : (-31, 61)  (61, -31) 
+	 ajout a gauche : (-30, 62)  (62, -30) 
+	 ajout a gauche : (-30, 63)  (63, -30) 
+	 ajout a gauche : (-30, 64)  (64, -30) 
+	 ajout a gauche : (-30, 65)  (65, -30) 
+	 ajout a gauche : (-30, 66)  (66, -30) 
+vR 188 217
+vR 189 217
+vR 190 217
+vR 191 217
+vR 192 217
+vL 218 193
+	 ajout a droite : vL 219 193
+	 ajout a droite : vL 220 193
+	 Point de depart : (-33, 39)  (39, -33) 
+	 ajout a gauche : (-33, 38)  (38, -33) 
+	 ajout a gauche : (-33, 40)  (40, -33) 
+	 ajout a gauche : (-33, 41)  (41, -33) 
+	 ajout a gauche : (-34, 42)  (42, -34) 
+	 ajout a gauche : (-34, 43)  (43, -34) 
+	 ajout a gauche : (-34, 44)  (44, -34) 
+	 ajout a gauche : (-34, 45)  (45, -34) 
+	 ajout a gauche : (-34, 46)  (46, -34) 
+	 ajout a gauche : (-33, 47)  (47, -33) 
+	 ajout a gauche : (-33, 48)  (48, -33) 
+	 ajout a gauche : (-33, 49)  (49, -33) 
+	 ajout a gauche : (-33, 50)  (50, -33) 
+	 ajout a gauche : (-33, 51)  (51, -33) 
+	 ajout a gauche : (-33, 52)  (52, -33) 
+	 ajout a gauche : (-33, 53)  (53, -33) 
+	 ajout a gauche : (-33, 54)  (54, -33) 
+	 ajout a gauche : (-32, 55)  (55, -32) 
+	 ajout a gauche : (-32, 56)  (56, -32) 
+	 ajout a gauche : (-31, 57)  (57, -31) 
+	 ajout a gauche : (-31, 58)  (58, -31) 
+	 ajout a gauche : (-31, 59)  (59, -31) 
+	 ajout a gauche : (-31, 60)  (60, -31) 
+	 ajout a gauche : (-31, 61)  (61, -31) 
+vR 193 220
+vR 194 220
+vR 195 220
+vR 196 220
+vR 197 220
+vL 221 198
+	 ajout a droite : vL 222 198
+	 ajout a droite : vL 223 198
+	 Point de depart : (-33, 36)  (36, -33) 
+	 ajout a gauche : (-33, 35)  (35, -33) 
+	 ajout a gauche : (-33, 37)  (37, -33) 
+	 ajout a gauche : (-33, 38)  (38, -33) 
+	 ajout a gauche : (-33, 39)  (39, -33) 
+	 ajout a gauche : (-33, 40)  (40, -33) 
+	 ajout a gauche : (-33, 41)  (41, -33) 
+	 ajout a gauche : (-34, 42)  (42, -34) 
+	 ajout a gauche : (-34, 43)  (43, -34) 
+	 ajout a gauche : (-34, 44)  (44, -34) 
+	 ajout a gauche : (-34, 45)  (45, -34) 
+	 ajout a gauche : (-34, 46)  (46, -34) 
+	 ajout a gauche : (-33, 47)  (47, -33) 
+	 ajout a gauche : (-33, 48)  (48, -33) 
+	 ajout a gauche : (-33, 49)  (49, -33) 
+	 ajout a gauche : (-33, 50)  (50, -33) 
+	 ajout a gauche : (-33, 51)  (51, -33) 
+	 ajout a gauche : (-33, 52)  (52, -33) 
+	 ajout a gauche : (-33, 53)  (53, -33) 
+	 ajout a gauche : (-33, 54)  (54, -33) 
+	 ajout a gauche : (-32, 55)  (55, -32) 
+	 ajout a gauche : (-32, 56)  (56, -32) 
+vR 198 223
+vR 199 223
+vR 200 223
+vR 201 223
+vR 202 223
+vL 224 203
+	 ajout a droite : vL 225 203
+	 ajout a droite : vL 226 203
+	 ajout a droite : vL 227 203
+	 ajout a droite : vL 228 203
+	 ajout a droite : vL 229 203
+	 ajout a droite : vL 230 203
+	 Point de depart : (-33, 29)  (29, -33) 
+	 ajout a gauche : (-32, 28)  (28, -32) 
+	 ajout a gauche : (-33, 30)  (30, -33) 
+	 ajout a gauche : (-33, 31)  (31, -33) 
+	 ajout a gauche : (-33, 32)  (32, -33) 
+	 ajout a gauche : (-33, 33)  (33, -33) 
+	 ajout a gauche : (-33, 34)  (34, -33) 
+	 ajout a gauche : (-33, 35)  (35, -33) 
+	 ajout a gauche : (-33, 36)  (36, -33) 
+	 ajout a gauche : (-33, 37)  (37, -33) 
+	 ajout a gauche : (-33, 38)  (38, -33) 
+	 ajout a gauche : (-33, 39)  (39, -33) 
+	 ajout a gauche : (-33, 40)  (40, -33) 
+	 ajout a gauche : (-33, 41)  (41, -33) 
+	 ajout a gauche : (-34, 42)  (42, -34) 
+	 ajout a gauche : (-34, 43)  (43, -34) 
+	 ajout a gauche : (-34, 44)  (44, -34) 
+	 ajout a gauche : (-34, 45)  (45, -34) 
+	 ajout a gauche : (-34, 46)  (46, -34) 
+	 ajout a gauche : (-33, 47)  (47, -33) 
+	 ajout a gauche : (-33, 48)  (48, -33) 
+	 ajout a gauche : (-33, 49)  (49, -33) 
+	 ajout a gauche : (-33, 50)  (50, -33) 
+	 ajout a gauche : (-33, 51)  (51, -33) 
+	 ajout a gauche : (-33, 52)  (52, -33) 
+	 ajout a gauche : (-33, 53)  (53, -33) 
+	 ajout a gauche : (-33, 54)  (54, -33) 
+vR 203 230
+vR 204 230
+vL 231 205
+	 ajout a droite : vL 232 205
+	 ajout a droite : vL 233 205
+	 ajout a droite : vL 234 205
+	 ajout a droite : vL 235 205
+	 ajout a droite : vL 236 205
+	 ajout a droite : vL 237 205
+	 ajout a droite : vL 238 205
+	 Point de depart : (-31, 21)  (21, -31) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 22)  (22, -31) 
+	 ajout a gauche : (-31, 23)  (23, -31) 
+	 ajout a gauche : (-32, 24)  (24, -32) 
+	 ajout a gauche : (-32, 25)  (25, -32) 
+	 ajout a gauche : (-32, 26)  (26, -32) 
+	 ajout a gauche : (-32, 27)  (27, -32) 
+	 ajout a gauche : (-32, 28)  (28, -32) 
+	 ajout a gauche : (-33, 29)  (29, -33) 
+	 ajout a gauche : (-33, 30)  (30, -33) 
+	 ajout a gauche : (-33, 31)  (31, -33) 
+	 ajout a gauche : (-33, 32)  (32, -33) 
+	 ajout a gauche : (-33, 33)  (33, -33) 
+	 ajout a gauche : (-33, 34)  (34, -33) 
+	 ajout a gauche : (-33, 35)  (35, -33) 
+	 ajout a gauche : (-33, 36)  (36, -33) 
+	 ajout a gauche : (-33, 37)  (37, -33) 
+	 ajout a gauche : (-33, 38)  (38, -33) 
+	 ajout a gauche : (-33, 39)  (39, -33) 
+	 ajout a gauche : (-33, 40)  (40, -33) 
+	 ajout a gauche : (-33, 41)  (41, -33) 
+	 ajout a gauche : (-34, 42)  (42, -34) 
+	 ajout a gauche : (-34, 43)  (43, -34) 
+	 ajout a gauche : (-34, 44)  (44, -34) 
+	 ajout a gauche : (-34, 45)  (45, -34) 
+	 ajout a gauche : (-34, 46)  (46, -34) 
+vR 205 238
+vR 206 238
+vR 207 238
+vR 208 238
+vR 209 238
+vR 210 238
+vR 211 238
+vR 212 238
+vL 239 213
+	 ajout a droite : vL 240 213
+	 Point de depart : (-30, 19)  (19, -30) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 21)  (21, -31) 
+	 ajout a gauche : (-31, 22)  (22, -31) 
+	 ajout a gauche : (-31, 23)  (23, -31) 
+	 ajout a gauche : (-32, 24)  (24, -32) 
+	 ajout a gauche : (-32, 25)  (25, -32) 
+	 ajout a gauche : (-32, 26)  (26, -32) 
+	 ajout a gauche : (-32, 27)  (27, -32) 
+	 ajout a gauche : (-32, 28)  (28, -32) 
+	 ajout a gauche : (-33, 29)  (29, -33) 
+	 ajout a gauche : (-33, 30)  (30, -33) 
+	 ajout a gauche : (-33, 31)  (31, -33) 
+	 ajout a gauche : (-33, 32)  (32, -33) 
+	 ajout a gauche : (-33, 33)  (33, -33) 
+	 ajout a gauche : (-33, 34)  (34, -33) 
+	 ajout a gauche : (-33, 35)  (35, -33) 
+	 ajout a gauche : (-33, 36)  (36, -33) 
+	 ajout a gauche : (-33, 37)  (37, -33) 
+	 ajout a gauche : (-33, 38)  (38, -33) 
+	 ajout a gauche : (-33, 39)  (39, -33) 
+vR 213 240
+vR 214 240
+vR 215 240
+vR 216 240
+vR 217 240
+vR 218 240
+vR 219 240
+vL 241 220
+	 ajout a droite : vL 242 220
+	 Point de depart : (-29, 17)  (17, -29) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 19)  (19, -30) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 21)  (21, -31) 
+	 ajout a gauche : (-31, 22)  (22, -31) 
+	 ajout a gauche : (-31, 23)  (23, -31) 
+	 ajout a gauche : (-32, 24)  (24, -32) 
+	 ajout a gauche : (-32, 25)  (25, -32) 
+	 ajout a gauche : (-32, 26)  (26, -32) 
+	 ajout a gauche : (-32, 27)  (27, -32) 
+	 ajout a gauche : (-32, 28)  (28, -32) 
+	 ajout a gauche : (-33, 29)  (29, -33) 
+	 ajout a gauche : (-33, 30)  (30, -33) 
+	 ajout a gauche : (-33, 31)  (31, -33) 
+	 ajout a gauche : (-33, 32)  (32, -33) 
+	 ajout a gauche : (-33, 33)  (33, -33) 
+	 ajout a gauche : (-33, 34)  (34, -33) 
+	 ajout a gauche : (-33, 35)  (35, -33) 
+vR 220 242
+vR 221 242
+vR 222 242
+vR 223 242
+vL 243 224
+	 ajout a droite : vL 244 224
+	 Point de depart : (-28, 15)  (15, -28) 
+	 ajout a gauche : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 17)  (17, -29) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 19)  (19, -30) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 21)  (21, -31) 
+	 ajout a gauche : (-31, 22)  (22, -31) 
+	 ajout a gauche : (-31, 23)  (23, -31) 
+	 ajout a gauche : (-32, 24)  (24, -32) 
+	 ajout a gauche : (-32, 25)  (25, -32) 
+	 ajout a gauche : (-32, 26)  (26, -32) 
+	 ajout a gauche : (-32, 27)  (27, -32) 
+	 ajout a gauche : (-32, 28)  (28, -32) 
+	 ajout a gauche : (-33, 29)  (29, -33) 
+	 ajout a gauche : (-33, 30)  (30, -33) 
+	 ajout a gauche : (-33, 31)  (31, -33) 
+	 ajout a gauche : (-33, 32)  (32, -33) 
+	 ajout a gauche : (-33, 33)  (33, -33) 
+vR 224 244
+vR 225 244
+vL 245 226
+	 Point de depart : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-26, 13)  (13, -26) 
+	 ajout a gauche : (-28, 15)  (15, -28) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 17)  (17, -29) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 19)  (19, -30) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 21)  (21, -31) 
+	 ajout a gauche : (-31, 22)  (22, -31) 
+	 ajout a gauche : (-31, 23)  (23, -31) 
+	 ajout a gauche : (-32, 24)  (24, -32) 
+	 ajout a gauche : (-32, 25)  (25, -32) 
+	 ajout a gauche : (-32, 26)  (26, -32) 
+	 ajout a gauche : (-32, 27)  (27, -32) 
+	 ajout a gauche : (-32, 28)  (28, -32) 
+	 ajout a gauche : (-33, 29)  (29, -33) 
+	 ajout a gauche : (-33, 30)  (30, -33) 
+	 ajout a gauche : (-33, 31)  (31, -33) 
+vR 226 245
+vR 227 245
+vL 246 228
+	 ajout a droite : vL 247 228
+	 ajout a droite : vL 248 228
+	 Point de depart : (-25, 11)  (11, -25) 
+	 ajout a gauche : (-24, 10)  (10, -24) 
+	 ajout a gauche : (-26, 12)  (12, -26) 
+	 ajout a gauche : (-26, 13)  (13, -26) 
+	 ajout a gauche : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-28, 15)  (15, -28) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 17)  (17, -29) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 19)  (19, -30) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 21)  (21, -31) 
+	 ajout a gauche : (-31, 22)  (22, -31) 
+	 ajout a gauche : (-31, 23)  (23, -31) 
+	 ajout a gauche : (-32, 24)  (24, -32) 
+	 ajout a gauche : (-32, 25)  (25, -32) 
+	 ajout a gauche : (-32, 26)  (26, -32) 
+	 ajout a gauche : (-32, 27)  (27, -32) 
+vR 228 248
+vR 229 248
+vR 230 248
+vR 231 248
+vL 249 232
+	 Point de depart : (-24, 10)  (10, -24) 
+	 ajout a gauche : (-23, 9)  (9, -23) 
+	 ajout a gauche : (-25, 11)  (11, -25) 
+	 ajout a gauche : (-26, 12)  (12, -26) 
+	 ajout a gauche : (-26, 13)  (13, -26) 
+	 ajout a gauche : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-28, 15)  (15, -28) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 17)  (17, -29) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 19)  (19, -30) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 21)  (21, -31) 
+	 ajout a gauche : (-31, 22)  (22, -31) 
+	 ajout a gauche : (-31, 23)  (23, -31) 
+	 ajout a gauche : (-32, 24)  (24, -32) 
+	 ajout a gauche : (-32, 25)  (25, -32) 
+	 ajout a gauche : (-32, 26)  (26, -32) 
+vR 232 249
+vL 250 233
+	 Point de depart : (-23, 9)  (9, -23) 
+	 ajout a gauche : (-22, 8)  (8, -22) 
+	 ajout a gauche : (-24, 10)  (10, -24) 
+	 ajout a gauche : (-25, 11)  (11, -25) 
+	 ajout a gauche : (-26, 12)  (12, -26) 
+	 ajout a gauche : (-26, 13)  (13, -26) 
+	 ajout a gauche : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-28, 15)  (15, -28) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 17)  (17, -29) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 19)  (19, -30) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 21)  (21, -31) 
+	 ajout a gauche : (-31, 22)  (22, -31) 
+	 ajout a gauche : (-31, 23)  (23, -31) 
+	 ajout a gauche : (-32, 24)  (24, -32) 
+	 ajout a gauche : (-32, 25)  (25, -32) 
+vR 233 250
+vL 251 234
+	 Point de depart : (-22, 8)  (8, -22) 
+	 ajout a gauche : (-21, 7)  (7, -21) 
+	 ajout a gauche : (-23, 9)  (9, -23) 
+	 ajout a gauche : (-24, 10)  (10, -24) 
+	 ajout a gauche : (-25, 11)  (11, -25) 
+	 ajout a gauche : (-26, 12)  (12, -26) 
+	 ajout a gauche : (-26, 13)  (13, -26) 
+	 ajout a gauche : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-28, 15)  (15, -28) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 17)  (17, -29) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 19)  (19, -30) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 21)  (21, -31) 
+	 ajout a gauche : (-31, 22)  (22, -31) 
+vR 234 251
+vR 235 251
+vR 236 251
+vL 252 237
+	 ajout a droite : vL 253 237
+	 Point de depart : (-20, 6)  (6, -20) 
+	 ajout a gauche : (-19, 5)  (5, -19) 
+	 ajout a gauche : (-21, 7)  (7, -21) 
+	 ajout a gauche : (-22, 8)  (8, -22) 
+	 ajout a gauche : (-23, 9)  (9, -23) 
+	 ajout a gauche : (-24, 10)  (10, -24) 
+	 ajout a gauche : (-25, 11)  (11, -25) 
+	 ajout a gauche : (-26, 12)  (12, -26) 
+	 ajout a gauche : (-26, 13)  (13, -26) 
+	 ajout a gauche : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-28, 15)  (15, -28) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 17)  (17, -29) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 19)  (19, -30) 
+	 ajout a gauche : (-30, 20)  (20, -30) 
+	 ajout a gauche : (-31, 21)  (21, -31) 
+vR 237 253
+vL 254 238
+	 Point de depart : (-19, 5)  (5, -19) 
+	 ajout a gauche : (-18, 4)  (4, -18) 
+	 ajout a gauche : (-20, 6)  (6, -20) 
+	 ajout a gauche : (-21, 7)  (7, -21) 
+	 ajout a gauche : (-22, 8)  (8, -22) 
+	 ajout a gauche : (-23, 9)  (9, -23) 
+	 ajout a gauche : (-24, 10)  (10, -24) 
+	 ajout a gauche : (-25, 11)  (11, -25) 
+	 ajout a gauche : (-26, 12)  (12, -26) 
+	 ajout a gauche : (-26, 13)  (13, -26) 
+	 ajout a gauche : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-28, 15)  (15, -28) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 17)  (17, -29) 
+	 ajout a gauche : (-29, 18)  (18, -29) 
+	 ajout a gauche : (-30, 19)  (19, -30) 
+vR 238 254
+vR 239 254
+vL 255 240
+	 Point de depart : (-18, 4)  (4, -18) 
+	 ajout a gauche : (-17, 4)  (4, -17) 
+	 ajout a gauche : (-19, 5)  (5, -19) 
+	 ajout a gauche : (-20, 6)  (6, -20) 
+	 ajout a gauche : (-21, 7)  (7, -21) 
+	 ajout a gauche : (-22, 8)  (8, -22) 
+	 ajout a gauche : (-23, 9)  (9, -23) 
+	 ajout a gauche : (-24, 10)  (10, -24) 
+	 ajout a gauche : (-25, 11)  (11, -25) 
+	 ajout a gauche : (-26, 12)  (12, -26) 
+	 ajout a gauche : (-26, 13)  (13, -26) 
+	 ajout a gauche : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-28, 15)  (15, -28) 
+	 ajout a gauche : (-28, 16)  (16, -28) 
+	 ajout a gauche : (-29, 17)  (17, -29) 
+vR 240 255
+vR 241 255
+vL 256 242
+	 ajout a droite : vL 257 242
+	 ajout a droite : vL 258 242
+	 Point de depart : (-15, 2)  (2, -15) 
+	 ajout a gauche : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-16, 3)  (3, -16) 
+	 ajout a gauche : (-17, 4)  (4, -17) 
+	 ajout a gauche : (-18, 4)  (4, -18) 
+	 ajout a gauche : (-19, 5)  (5, -19) 
+	 ajout a gauche : (-20, 6)  (6, -20) 
+	 ajout a gauche : (-21, 7)  (7, -21) 
+	 ajout a gauche : (-22, 8)  (8, -22) 
+	 ajout a gauche : (-23, 9)  (9, -23) 
+	 ajout a gauche : (-24, 10)  (10, -24) 
+	 ajout a gauche : (-25, 11)  (11, -25) 
+	 ajout a gauche : (-26, 12)  (12, -26) 
+	 ajout a gauche : (-26, 13)  (13, -26) 
+	 ajout a gauche : (-27, 14)  (14, -27) 
+	 ajout a gauche : (-28, 15)  (15, -28) 
+vR 242 258
+vR 243 258
+vL 259 244
+	 Point de depart : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-13, 2)  (2, -13) 
+	 ajout a gauche : (-15, 2)  (2, -15) 
+	 ajout a gauche : (-16, 3)  (3, -16) 
+	 ajout a gauche : (-17, 4)  (4, -17) 
+	 ajout a gauche : (-18, 4)  (4, -18) 
+	 ajout a gauche : (-19, 5)  (5, -19) 
+	 ajout a gauche : (-20, 6)  (6, -20) 
+	 ajout a gauche : (-21, 7)  (7, -21) 
+	 ajout a gauche : (-22, 8)  (8, -22) 
+	 ajout a gauche : (-23, 9)  (9, -23) 
+	 ajout a gauche : (-24, 10)  (10, -24) 
+	 ajout a gauche : (-25, 11)  (11, -25) 
+	 ajout a gauche : (-26, 12)  (12, -26) 
+vR 244 259
+vR 245 259
+vR 246 259
+vL 260 247
+	 Point de depart : (-13, 2)  (2, -13) 
+	 ajout a gauche : (-12, 2)  (2, -12) 
+	 ajout a gauche : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-15, 2)  (2, -15) 
+	 ajout a gauche : (-16, 3)  (3, -16) 
+	 ajout a gauche : (-17, 4)  (4, -17) 
+	 ajout a gauche : (-18, 4)  (4, -18) 
+	 ajout a gauche : (-19, 5)  (5, -19) 
+	 ajout a gauche : (-20, 6)  (6, -20) 
+	 ajout a gauche : (-21, 7)  (7, -21) 
+	 ajout a gauche : (-22, 8)  (8, -22) 
+	 ajout a gauche : (-23, 9)  (9, -23) 
+vR 247 260
+vR 248 260
+vR 249 260
+vL 261 250
+	 ajout a droite : vL 262 250
+	 Point de depart : (-11, 1)  (1, -11) 
+	 ajout a gauche : (-10, 1)  (1, -10) 
+	 ajout a gauche : (-12, 2)  (2, -12) 
+	 ajout a gauche : (-13, 2)  (2, -13) 
+	 ajout a gauche : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-15, 2)  (2, -15) 
+	 ajout a gauche : (-16, 3)  (3, -16) 
+	 ajout a gauche : (-17, 4)  (4, -17) 
+	 ajout a gauche : (-18, 4)  (4, -18) 
+	 ajout a gauche : (-19, 5)  (5, -19) 
+	 ajout a gauche : (-20, 6)  (6, -20) 
+	 ajout a gauche : (-21, 7)  (7, -21) 
+	 ajout a gauche : (-22, 8)  (8, -22) 
+vR 250 262
+vL 263 251
+	 ajout a droite : vL 264 251
+	 ajout a droite : vL 265 251
+	 Point de depart : (-8, 0)  (0, -8) 
+	 ajout a gauche : (-7, 0)  (0, -7) 
+	 ajout a gauche : (-9, 0)  (0, -9) 
+	 ajout a gauche : (-10, 1)  (1, -10) 
+	 ajout a gauche : (-11, 1)  (1, -11) 
+	 ajout a gauche : (-12, 2)  (2, -12) 
+	 ajout a gauche : (-13, 2)  (2, -13) 
+	 ajout a gauche : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-15, 2)  (2, -15) 
+	 ajout a gauche : (-16, 3)  (3, -16) 
+	 ajout a gauche : (-17, 4)  (4, -17) 
+	 ajout a gauche : (-18, 4)  (4, -18) 
+	 ajout a gauche : (-19, 5)  (5, -19) 
+	 ajout a gauche : (-20, 6)  (6, -20) 
+vR 251 265
+vR 252 265
+vL 266 253
+	 ajout a droite : vL 267 253
+	 Point de depart : (-6, 0)  (0, -6) 
+	 ajout a gauche : (-5, 0)  (0, -5) 
+	 ajout a gauche : (-7, 0)  (0, -7) 
+	 ajout a gauche : (-8, 0)  (0, -8) 
+	 ajout a gauche : (-9, 0)  (0, -9) 
+	 ajout a gauche : (-10, 1)  (1, -10) 
+	 ajout a gauche : (-11, 1)  (1, -11) 
+	 ajout a gauche : (-12, 2)  (2, -12) 
+	 ajout a gauche : (-13, 2)  (2, -13) 
+	 ajout a gauche : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-15, 2)  (2, -15) 
+	 ajout a gauche : (-16, 3)  (3, -16) 
+	 ajout a gauche : (-17, 4)  (4, -17) 
+	 ajout a gauche : (-18, 4)  (4, -18) 
+	 ajout a gauche : (-19, 5)  (5, -19) 
+vR 253 267
+vL 268 254
+	 ajout a droite : vL 269 254
+	 ajout a droite : vL 270 254
+	 Point de depart : (-3, 0)  (0, -3) 
+	 ajout a gauche : (-2, 0)  (0, -2) 
+	 ajout a gauche : (-4, 0)  (0, -4) 
+	 ajout a gauche : (-5, 0)  (0, -5) 
+	 ajout a gauche : (-6, 0)  (0, -6) 
+	 ajout a gauche : (-7, 0)  (0, -7) 
+	 ajout a gauche : (-8, 0)  (0, -8) 
+	 ajout a gauche : (-9, 0)  (0, -9) 
+	 ajout a gauche : (-10, 1)  (1, -10) 
+	 ajout a gauche : (-11, 1)  (1, -11) 
+	 ajout a gauche : (-12, 2)  (2, -12) 
+	 ajout a gauche : (-13, 2)  (2, -13) 
+	 ajout a gauche : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-15, 2)  (2, -15) 
+	 ajout a gauche : (-16, 3)  (3, -16) 
+	 ajout a gauche : (-17, 4)  (4, -17) 
+	 ajout a gauche : (-18, 4)  (4, -18) 
+vR 254 270
+vL 271 255
+	 Point de depart : (-2, 0)  (0, -2) 
+	 ajout a gauche : (-1, 0)  (0, -1) 
+	 ajout a gauche : (-3, 0)  (0, -3) 
+	 ajout a gauche : (-4, 0)  (0, -4) 
+	 ajout a gauche : (-5, 0)  (0, -5) 
+	 ajout a gauche : (-6, 0)  (0, -6) 
+	 ajout a gauche : (-7, 0)  (0, -7) 
+	 ajout a gauche : (-8, 0)  (0, -8) 
+	 ajout a gauche : (-9, 0)  (0, -9) 
+	 ajout a gauche : (-10, 1)  (1, -10) 
+	 ajout a gauche : (-11, 1)  (1, -11) 
+	 ajout a gauche : (-12, 2)  (2, -12) 
+	 ajout a gauche : (-13, 2)  (2, -13) 
+	 ajout a gauche : (-14, 2)  (2, -14) 
+	 ajout a gauche : (-15, 2)  (2, -15) 
+	 ajout a gauche : (-16, 3)  (3, -16) 
+vR 255 271
+vR 256 271
+vL 272 257
+
+RESULTAT
+257 (-16, 3)  - 0 (0, 0)  - 14 (14, 3)  => 0.0257425
+257 (-16, 3)  - 1 (1, -1)  - 16 (16, 5)  => 0.0358161
+257 (-16, 3)  - 2 (2, -1)  - 19 (19, 7)  => 0.0347419
+257 (-16, 3)  - 3 (3, -1)  - 20 (20, 8)  => 0.0352132
+257 (-16, 3)  - 4 (4, -1)  - 20 (20, 8)  => 0.0358597
+258 (-15, 2)  - 5 (5, 0)  - 20 (20, 8)  => 0.0313175
+258 (-15, 2)  - 6 (6, 0)  - 21 (21, 9)  => 0.0323647
+258 (-15, 2)  - 7 (7, 0)  - 25 (24, 12)  => 0.0322033
+258 (-15, 2)  - 8 (8, 0)  - 27 (26, 14)  => 0.0318358
+264 (-9, 0)  - 9 (9, 1)  - 27 (26, 14)  => 0.0298413
+264 (-9, 0)  - 10 (10, 1)  - 27 (26, 14)  => 0.0312461
+271 (-2, 0)  - 11 (11, 2)  - 27 (26, 14)  => 0.0318604
+271 (-2, 0)  - 12 (12, 2)  - 27 (26, 14)  => 0.0342997
+0 (0, 0)  - 13 (13, 3)  - 27 (26, 14)  => 0.0310025
+0 (0, 0)  - 14 (14, 3)  - 27 (26, 14)  => 0.0342889
+1 (1, -1)  - 15 (15, 4)  - 27 (26, 14)  => 0.0263844
+1 (1, -1)  - 16 (16, 5)  - 27 (26, 14)  => 0.0236713
+2 (2, -1)  - 17 (17, 6)  - 27 (26, 14)  => 0.0202083
+2 (2, -1)  - 18 (18, 6)  - 31 (28, 18)  => 0.0277751
+2 (2, -1)  - 19 (19, 7)  - 31 (28, 18)  => 0.026747
+3 (3, -1)  - 20 (20, 8)  - 34 (29, 21)  => 0.0270308
+6 (6, 0)  - 21 (21, 9)  - 34 (29, 21)  => 0.02749
+7 (7, 0)  - 22 (22, 10)  - 35 (29, 22)  => 0.0282335
+7 (7, 0)  - 23 (23, 10)  - 39 (30, 26)  => 0.0325218
+7 (7, 0)  - 24 (24, 11)  - 39 (30, 26)  => 0.0332879
+7 (7, 0)  - 25 (24, 12)  - 39 (30, 26)  => 0.0301756
+8 (8, 0)  - 26 (25, 13)  - 44 (30, 31)  => 0.0317152
+8 (8, 0)  - 27 (26, 14)  - 45 (30, 32)  => 0.0328264
+18 (18, 6)  - 28 (26, 15)  - 45 (30, 32)  => 0.0332116
+18 (18, 6)  - 29 (27, 16)  - 55 (31, 42)  => 0.0286431
+18 (18, 6)  - 30 (28, 17)  - 68 (32, 55)  => 0.0232146
+18 (18, 6)  - 31 (28, 18)  - 68 (32, 55)  => 0.0217385
+20 (20, 8)  - 32 (28, 19)  - 68 (32, 55)  => 0.02042
+20 (20, 8)  - 33 (28, 20)  - 68 (32, 55)  => 0.0188274
+20 (20, 8)  - 34 (29, 21)  - 68 (32, 55)  => 0.0203985
+22 (22, 10)  - 35 (29, 22)  - 68 (32, 55)  => 0.0183783
+23 (23, 10)  - 36 (29, 23)  - 68 (32, 55)  => 0.0144899
+23 (23, 10)  - 37 (30, 24)  - 68 (32, 55)  => 0.0169401
+23 (23, 10)  - 38 (30, 25)  - 68 (32, 55)  => 0.0157621
+23 (23, 10)  - 39 (30, 26)  - 68 (32, 55)  => 0.0146797
+26 (25, 13)  - 40 (30, 27)  - 68 (32, 55)  => 0.0126064
+26 (25, 13)  - 41 (30, 28)  - 68 (32, 55)  => 0.0115212
+26 (25, 13)  - 42 (30, 29)  - 68 (32, 55)  => 0.0105305
+26 (25, 13)  - 43 (30, 30)  - 68 (32, 55)  => 0.00961795
+26 (25, 13)  - 44 (30, 31)  - 68 (32, 55)  => 0.00876968
+27 (26, 14)  - 45 (30, 32)  - 68 (32, 55)  => 0.00634936
+29 (27, 16)  - 46 (30, 33)  - 68 (32, 55)  => 0.00426832
+29 (27, 16)  - 47 (30, 34)  - 68 (32, 55)  => 0.00356769
+29 (27, 16)  - 48 (31, 35)  - 68 (32, 55)  => 0.00798017
+29 (27, 16)  - 49 (31, 36)  - 68 (32, 55)  => 0.00734027
+29 (27, 16)  - 50 (31, 37)  - 68 (32, 55)  => 0.00673125
+29 (27, 16)  - 51 (31, 38)  - 68 (32, 55)  => 0.00614468
+29 (27, 16)  - 52 (31, 39)  - 72 (33, 59)  => 0.00333783
+29 (27, 16)  - 53 (31, 40)  - 72 (33, 59)  => 0.00277476
+29 (27, 16)  - 54 (31, 41)  - 77 (34, 64)  => 0.00119357
+29 (27, 16)  - 55 (31, 42)  - 82 (36, 69)  => -0.00113309
+30 (28, 17)  - 56 (30, 43)  - 83 (37, 69)  => -0.00701677
+30 (28, 17)  - 57 (30, 44)  - 83 (37, 69)  => -0.00749463
+30 (28, 17)  - 58 (30, 45)  - 83 (37, 69)  => -0.00799238
+30 (28, 17)  - 59 (30, 46)  - 83 (37, 69)  => -0.00851383
+30 (28, 17)  - 60 (30, 47)  - 83 (37, 69)  => -0.00906312
+30 (28, 17)  - 61 (31, 48)  - 83 (37, 69)  => -0.00685295
+30 (28, 17)  - 62 (31, 49)  - 83 (37, 69)  => -0.00745415
+30 (28, 17)  - 63 (31, 50)  - 83 (37, 69)  => -0.00809357
+30 (28, 17)  - 64 (31, 51)  - 83 (37, 69)  => -0.00877798
+30 (28, 17)  - 65 (31, 52)  - 83 (37, 69)  => -0.00951514
+30 (28, 17)  - 66 (32, 53)  - 83 (37, 69)  => -0.00724028
+30 (28, 17)  - 67 (32, 54)  - 83 (37, 69)  => -0.00805068
+30 (28, 17)  - 68 (32, 55)  - 83 (37, 69)  => -0.00894025
+52 (31, 39)  - 69 (33, 56)  - 83 (37, 69)  => -0.0117929
+52 (31, 39)  - 70 (33, 57)  - 83 (37, 69)  => -0.0136973
+52 (31, 39)  - 71 (33, 58)  - 83 (37, 69)  => -0.0157863
+52 (31, 39)  - 72 (33, 59)  - 83 (37, 69)  => -0.0181186
+54 (31, 41)  - 73 (34, 60)  - 83 (37, 69)  => -0.0114821
+54 (31, 41)  - 74 (34, 61)  - 83 (37, 69)  => -0.0145513
+54 (31, 41)  - 75 (34, 62)  - 83 (37, 69)  => -0.0181573
+54 (31, 41)  - 76 (34, 63)  - 84 (38, 70)  => -0.0250917
+54 (31, 41)  - 77 (34, 64)  - 84 (38, 70)  => -0.0296602
+55 (31, 42)  - 78 (35, 65)  - 84 (38, 70)  => -0.024944
+55 (31, 42)  - 79 (35, 66)  - 84 (38, 70)  => -0.0318981
+55 (31, 42)  - 80 (35, 67)  - 86 (39, 72)  => -0.0317878
+55 (31, 42)  - 81 (35, 68)  - 86 (39, 72)  => -0.0380931
+55 (31, 42)  - 82 (36, 69)  - 86 (39, 72)  => -0.0364933
+56 (30, 43)  - 83 (37, 69)  - 88 (38, 74)  => 0.00409501
+76 (34, 63)  - 84 (38, 70)  - 118 (29, 104)  => 0.0339822
+80 (35, 67)  - 85 (39, 71)  - 118 (29, 104)  => 0.0470494
+80 (35, 67)  - 86 (39, 72)  - 118 (29, 104)  => 0.0442422
+83 (37, 69)  - 87 (38, 73)  - 118 (29, 104)  => 0.0280427
+83 (37, 69)  - 88 (38, 74)  - 118 (29, 104)  => 0.0261604
+84 (38, 70)  - 89 (37, 75)  - 118 (29, 104)  => 0.00407781
+84 (38, 70)  - 90 (36, 76)  - 118 (29, 104)  => -0.00436135
+84 (38, 70)  - 91 (36, 77)  - 118 (29, 104)  => -0.00140019
+84 (38, 70)  - 92 (36, 78)  - 120 (28, 106)  => 0.0017833
+84 (38, 70)  - 93 (36, 79)  - 120 (28, 106)  => 0.00371119
+84 (38, 70)  - 94 (36, 80)  - 120 (28, 106)  => 0.00540272
+84 (38, 70)  - 95 (36, 81)  - 120 (28, 106)  => 0.00693117
+84 (38, 70)  - 96 (35, 82)  - 120 (28, 106)  => 0.00207722
+84 (38, 70)  - 97 (35, 83)  - 120 (28, 106)  => 0.00367144
+84 (38, 70)  - 98 (35, 84)  - 120 (28, 106)  => 0.00518199
+84 (38, 70)  - 99 (34, 85)  - 120 (28, 106)  => 0.000947264
+84 (38, 70)  - 100 (34, 86)  - 120 (28, 106)  => 0.00248702
+84 (38, 70)  - 101 (34, 87)  - 121 (27, 107)  => 0.00546045
+84 (38, 70)  - 102 (34, 88)  - 121 (27, 107)  => 0.00693866
+84 (38, 70)  - 103 (34, 89)  - 121 (27, 107)  => 0.00842833
+84 (38, 70)  - 104 (34, 90)  - 121 (27, 107)  => 0.00994865
+84 (38, 70)  - 105 (33, 91)  - 121 (27, 107)  => 0.00646116
+84 (38, 70)  - 106 (33, 92)  - 122 (26, 107)  => 0.0108769
+84 (38, 70)  - 107 (33, 93)  - 123 (25, 108)  => 0.0135655
+84 (38, 70)  - 108 (33, 94)  - 123 (25, 108)  => 0.0153691
+84 (38, 70)  - 109 (32, 95)  - 123 (25, 108)  => 0.0127249
+84 (38, 70)  - 110 (32, 96)  - 123 (25, 108)  => 0.014777
+84 (38, 70)  - 111 (32, 97)  - 123 (25, 108)  => 0.0169849
+84 (38, 70)  - 112 (32, 98)  - 123 (25, 108)  => 0.0193754
+84 (38, 70)  - 113 (31, 99)  - 123 (25, 108)  => 0.0171296
+84 (38, 70)  - 114 (30, 100)  - 123 (25, 108)  => 0.014621
+84 (38, 70)  - 115 (30, 101)  - 126 (22, 111)  => 0.0186205
+84 (38, 70)  - 116 (30, 102)  - 126 (22, 111)  => 0.0210516
+84 (38, 70)  - 117 (29, 103)  - 126 (22, 111)  => 0.0198715
+84 (38, 70)  - 118 (29, 104)  - 130 (18, 112)  => 0.0271417
+92 (36, 78)  - 119 (28, 105)  - 130 (18, 112)  => 0.0323656
+92 (36, 78)  - 120 (28, 106)  - 133 (15, 113)  => 0.0351008
+101 (34, 87)  - 121 (27, 107)  - 133 (15, 113)  => 0.043256
+106 (33, 92)  - 122 (26, 107)  - 133 (15, 113)  => 0.0428824
+107 (33, 93)  - 123 (25, 108)  - 135 (13, 113)  => 0.0447941
+115 (30, 101)  - 124 (24, 109)  - 139 (9, 113)  => 0.0511346
+115 (30, 101)  - 125 (23, 110)  - 142 (6, 113)  => 0.0499871
+115 (30, 101)  - 126 (22, 111)  - 145 (3, 112)  => 0.0512408
+118 (29, 104)  - 127 (21, 111)  - 145 (3, 112)  => 0.0452705
+118 (29, 104)  - 128 (20, 112)  - 148 (0, 111)  => 0.0469857
+118 (29, 104)  - 129 (19, 112)  - 148 (0, 111)  => 0.0445732
+118 (29, 104)  - 130 (18, 112)  - 148 (0, 111)  => 0.0423779
+120 (28, 106)  - 131 (17, 112)  - 148 (0, 111)  => 0.0372379
+120 (28, 106)  - 132 (16, 113)  - 149 (-1, 110)  => 0.0441555
+120 (28, 106)  - 133 (15, 113)  - 149 (-1, 110)  => 0.0429206
+123 (25, 108)  - 134 (14, 113)  - 149 (-1, 110)  => 0.0448141
+123 (25, 108)  - 135 (13, 113)  - 150 (-2, 109)  => 0.0451151
+124 (24, 109)  - 136 (12, 113)  - 150 (-2, 109)  => 0.0434372
+124 (24, 109)  - 137 (11, 113)  - 151 (-3, 108)  => 0.0442968
+124 (24, 109)  - 138 (10, 113)  - 151 (-3, 108)  => 0.0445307
+124 (24, 109)  - 139 (9, 113)  - 151 (-3, 108)  => 0.0451151
+125 (23, 110)  - 140 (8, 113)  - 151 (-3, 108)  => 0.0448141
+125 (23, 110)  - 141 (7, 113)  - 152 (-4, 107)  => 0.0465606
+125 (23, 110)  - 142 (6, 113)  - 152 (-4, 107)  => 0.0482723
+126 (22, 111)  - 143 (5, 112)  - 152 (-4, 107)  => 0.0407618
+126 (22, 111)  - 144 (4, 112)  - 155 (-7, 104)  => 0.0423779
+126 (22, 111)  - 145 (3, 112)  - 159 (-10, 100)  => 0.0423173
+128 (20, 112)  - 146 (2, 111)  - 159 (-10, 100)  => 0.0392309
+128 (20, 112)  - 147 (1, 111)  - 164 (-14, 95)  => 0.0364391
+128 (20, 112)  - 148 (0, 111)  - 165 (-14, 94)  => 0.0384303
+132 (16, 113)  - 149 (-1, 110)  - 172 (-19, 87)  => 0.030661
+135 (13, 113)  - 150 (-2, 109)  - 177 (-22, 82)  => 0.0266522
+137 (11, 113)  - 151 (-3, 108)  - 179 (-23, 80)  => 0.0240953
+141 (7, 113)  - 152 (-4, 107)  - 183 (-25, 76)  => 0.0187358
+144 (4, 112)  - 153 (-5, 106)  - 183 (-25, 76)  => 0.01664
+144 (4, 112)  - 154 (-6, 105)  - 185 (-26, 74)  => 0.0155947
+144 (4, 112)  - 155 (-7, 104)  - 186 (-26, 73)  => 0.0155343
+145 (3, 112)  - 156 (-8, 103)  - 186 (-26, 73)  => 0.0139038
+145 (3, 112)  - 157 (-9, 102)  - 186 (-26, 73)  => 0.0139501
+145 (3, 112)  - 158 (-9, 101)  - 186 (-26, 73)  => 0.0114988
+145 (3, 112)  - 159 (-10, 100)  - 186 (-26, 73)  => 0.0117841
+147 (1, 111)  - 160 (-10, 99)  - 186 (-26, 73)  => 0.00811516
+147 (1, 111)  - 161 (-11, 98)  - 194 (-30, 65)  => 0.00797437
+147 (1, 111)  - 162 (-12, 97)  - 195 (-30, 64)  => 0.008755
+147 (1, 111)  - 163 (-13, 96)  - 195 (-30, 64)  => 0.00922113
+147 (1, 111)  - 164 (-14, 95)  - 195 (-30, 64)  => 0.00970351
+148 (0, 111)  - 165 (-14, 94)  - 195 (-30, 64)  => 0.00708976
+149 (-1, 110)  - 166 (-14, 93)  - 195 (-30, 64)  => 0.00544826
+149 (-1, 110)  - 167 (-15, 92)  - 196 (-30, 63)  => 0.00661513
+149 (-1, 110)  - 168 (-16, 91)  - 199 (-31, 60)  => 0.0074058
+149 (-1, 110)  - 169 (-17, 90)  - 199 (-31, 60)  => 0.00809028
+149 (-1, 110)  - 170 (-18, 89)  - 199 (-31, 60)  => 0.00878802
+149 (-1, 110)  - 171 (-18, 88)  - 199 (-31, 60)  => 0.0075929
+149 (-1, 110)  - 172 (-19, 87)  - 199 (-31, 60)  => 0.00834696
+150 (-2, 109)  - 173 (-19, 86)  - 199 (-31, 60)  => 0.00711948
+150 (-2, 109)  - 174 (-20, 85)  - 199 (-31, 60)  => 0.00797344
+150 (-2, 109)  - 175 (-20, 84)  - 199 (-31, 60)  => 0.00678069
+150 (-2, 109)  - 176 (-21, 83)  - 200 (-31, 59)  => 0.0081
+150 (-2, 109)  - 177 (-22, 82)  - 200 (-31, 59)  => 0.00904773
+151 (-3, 108)  - 178 (-22, 81)  - 200 (-31, 59)  => 0.00790271
+151 (-3, 108)  - 179 (-23, 80)  - 200 (-31, 59)  => 0.00898276
+152 (-4, 107)  - 180 (-23, 79)  - 200 (-31, 59)  => 0.00777243
+152 (-4, 107)  - 181 (-24, 78)  - 201 (-31, 58)  => 0.00943442
+152 (-4, 107)  - 182 (-24, 77)  - 201 (-31, 58)  => 0.00832421
+152 (-4, 107)  - 183 (-25, 76)  - 208 (-33, 51)  => 0.00893816
+154 (-6, 105)  - 184 (-25, 75)  - 208 (-33, 51)  => 0.00796503
+154 (-6, 105)  - 185 (-26, 74)  - 208 (-33, 51)  => 0.009076
+155 (-7, 104)  - 186 (-26, 73)  - 208 (-33, 51)  => 0.00811232
+161 (-11, 98)  - 187 (-26, 72)  - 208 (-33, 51)  => 0.00771442
+161 (-11, 98)  - 188 (-27, 71)  - 217 (-34, 42)  => 0.00970315
+161 (-11, 98)  - 189 (-28, 70)  - 217 (-34, 42)  => 0.0108477
+161 (-11, 98)  - 190 (-28, 69)  - 217 (-34, 42)  => 0.0101267
+161 (-11, 98)  - 191 (-29, 68)  - 217 (-34, 42)  => 0.0113415
+161 (-11, 98)  - 192 (-29, 67)  - 217 (-34, 42)  => 0.0106637
+161 (-11, 98)  - 193 (-30, 66)  - 220 (-33, 39)  => 0.0131006
+161 (-11, 98)  - 194 (-30, 65)  - 220 (-33, 39)  => 0.0125886
+162 (-12, 97)  - 195 (-30, 64)  - 220 (-33, 39)  => 0.0120239
+167 (-15, 92)  - 196 (-30, 63)  - 220 (-33, 39)  => 0.0123525
+168 (-16, 91)  - 197 (-30, 62)  - 220 (-33, 39)  => 0.0115018
+168 (-16, 91)  - 198 (-31, 61)  - 223 (-33, 36)  => 0.0130096
+168 (-16, 91)  - 199 (-31, 60)  - 223 (-33, 36)  => 0.0124828
+176 (-21, 83)  - 200 (-31, 59)  - 223 (-33, 36)  => 0.0125013
+181 (-24, 78)  - 201 (-31, 58)  - 223 (-33, 36)  => 0.0113398
+183 (-25, 76)  - 202 (-31, 57)  - 223 (-33, 36)  => 0.010265
+183 (-25, 76)  - 203 (-32, 56)  - 230 (-33, 29)  => 0.0123832
+183 (-25, 76)  - 204 (-32, 55)  - 230 (-33, 29)  => 0.0117264
+183 (-25, 76)  - 205 (-33, 54)  - 238 (-31, 21)  => 0.0143863
+183 (-25, 76)  - 206 (-33, 53)  - 238 (-31, 21)  => 0.0139824
+183 (-25, 76)  - 207 (-33, 52)  - 238 (-31, 21)  => 0.0136156
+183 (-25, 76)  - 208 (-33, 51)  - 238 (-31, 21)  => 0.0132832
+188 (-27, 71)  - 209 (-33, 50)  - 238 (-31, 21)  => 0.0135657
+188 (-27, 71)  - 210 (-33, 49)  - 238 (-31, 21)  => 0.0132052
+188 (-27, 71)  - 211 (-33, 48)  - 238 (-31, 21)  => 0.0128873
+188 (-27, 71)  - 212 (-33, 47)  - 238 (-31, 21)  => 0.0126088
+188 (-27, 71)  - 213 (-34, 46)  - 240 (-30, 19)  => 0.0156601
+188 (-27, 71)  - 214 (-34, 45)  - 240 (-30, 19)  => 0.0155042
+188 (-27, 71)  - 215 (-34, 44)  - 240 (-30, 19)  => 0.0153877
+188 (-27, 71)  - 216 (-34, 43)  - 240 (-30, 19)  => 0.0153102
+188 (-27, 71)  - 217 (-34, 42)  - 240 (-30, 19)  => 0.0152718
+193 (-30, 66)  - 218 (-33, 41)  - 240 (-30, 19)  => 0.0107321
+193 (-30, 66)  - 219 (-33, 40)  - 240 (-30, 19)  => 0.0108069
+193 (-30, 66)  - 220 (-33, 39)  - 242 (-29, 17)  => 0.0116891
+198 (-31, 61)  - 221 (-33, 38)  - 242 (-29, 17)  => 0.0123286
+198 (-31, 61)  - 222 (-33, 37)  - 242 (-29, 17)  => 0.0125721
+198 (-31, 61)  - 223 (-33, 36)  - 242 (-29, 17)  => 0.012868
+203 (-32, 56)  - 224 (-33, 35)  - 244 (-28, 15)  => 0.0140021
+203 (-32, 56)  - 225 (-33, 34)  - 244 (-28, 15)  => 0.0144749
+203 (-32, 56)  - 226 (-33, 33)  - 245 (-27, 14)  => 0.0161842
+203 (-32, 56)  - 227 (-33, 32)  - 245 (-27, 14)  => 0.0168074
+203 (-32, 56)  - 228 (-33, 31)  - 248 (-25, 11)  => 0.0179268
+203 (-32, 56)  - 229 (-33, 30)  - 248 (-25, 11)  => 0.018585
+203 (-32, 56)  - 230 (-33, 29)  - 248 (-25, 11)  => 0.0193092
+205 (-33, 54)  - 231 (-32, 28)  - 248 (-25, 11)  => 0.0157726
+205 (-33, 54)  - 232 (-32, 27)  - 249 (-24, 10)  => 0.0174575
+205 (-33, 54)  - 233 (-32, 26)  - 250 (-23, 9)  => 0.0189183
+205 (-33, 54)  - 234 (-32, 25)  - 251 (-22, 8)  => 0.0201711
+205 (-33, 54)  - 235 (-32, 24)  - 251 (-22, 8)  => 0.0212045
+205 (-33, 54)  - 236 (-31, 23)  - 251 (-22, 8)  => 0.0193764
+205 (-33, 54)  - 237 (-31, 22)  - 253 (-20, 6)  => 0.0206729
+205 (-33, 54)  - 238 (-31, 21)  - 254 (-19, 5)  => 0.0216051
+213 (-34, 46)  - 239 (-30, 20)  - 254 (-19, 5)  => 0.0211585
+213 (-34, 46)  - 240 (-30, 19)  - 255 (-18, 4)  => 0.0224061
+220 (-33, 39)  - 241 (-29, 18)  - 255 (-18, 4)  => 0.0241488
+220 (-33, 39)  - 242 (-29, 17)  - 258 (-15, 2)  => 0.0262741
+224 (-33, 35)  - 243 (-28, 16)  - 258 (-15, 2)  => 0.0250895
+224 (-33, 35)  - 244 (-28, 15)  - 259 (-14, 2)  => 0.028671
+226 (-33, 33)  - 245 (-27, 14)  - 259 (-14, 2)  => 0.0273077
+228 (-33, 31)  - 246 (-26, 13)  - 259 (-14, 2)  => 0.0255044
+228 (-33, 31)  - 247 (-26, 12)  - 260 (-13, 2)  => 0.0302586
+228 (-33, 31)  - 248 (-25, 11)  - 260 (-13, 2)  => 0.0295191
+232 (-32, 27)  - 249 (-24, 10)  - 260 (-13, 2)  => 0.0306566
+233 (-32, 26)  - 250 (-23, 9)  - 262 (-11, 1)  => 0.0291469
+234 (-32, 25)  - 251 (-22, 8)  - 265 (-8, 0)  => 0.0286717
+237 (-31, 22)  - 252 (-21, 7)  - 265 (-8, 0)  => 0.0295097
+237 (-31, 22)  - 253 (-20, 6)  - 267 (-6, 0)  => 0.0320853
+238 (-31, 21)  - 254 (-19, 5)  - 270 (-3, 0)  => 0.0334068
+240 (-30, 19)  - 255 (-18, 4)  - 271 (-2, 0)  => 0.0358204
+242 (-29, 17)  - 256 (-17, 4)  - 271 (-2, 0)  => 0.03355
+242 (-29, 17)  - 257 (-16, 3)  - 4 (4, -1)  => 0.0311315
+242 (-29, 17)  - 258 (-15, 2)  - 8 (8, 0)  => 0.0328694
+244 (-28, 15)  - 259 (-14, 2)  - 8 (8, 0)  => 0.0313494
+247 (-26, 12)  - 260 (-13, 2)  - 8 (8, 0)  => 0.0294999
+250 (-23, 9)  - 261 (-12, 2)  - 8 (8, 0)  => 0.0278974
+250 (-23, 9)  - 262 (-11, 1)  - 8 (8, 0)  => 0.031611
+251 (-22, 8)  - 263 (-10, 1)  - 8 (8, 0)  => 0.0293208
+251 (-22, 8)  - 264 (-9, 0)  - 10 (10, 1)  => 0.0346882
+251 (-22, 8)  - 265 (-8, 0)  - 10 (10, 1)  => 0.0331863
+253 (-20, 6)  - 266 (-7, 0)  - 10 (10, 1)  => 0.0310157
+253 (-20, 6)  - 267 (-6, 0)  - 10 (10, 1)  => 0.0296238
+254 (-19, 5)  - 268 (-5, 0)  - 10 (10, 1)  => 0.0272069
+254 (-19, 5)  - 269 (-4, 0)  - 10 (10, 1)  => 0.0261671
+254 (-19, 5)  - 270 (-3, 0)  - 10 (10, 1)  => 0.025319
+255 (-18, 4)  - 271 (-2, 0)  - 12 (12, 2)  => 0.0250974
+257 (-16, 3)  - 272 (-1, 0)  - 12 (12, 2)  => 0.0244801

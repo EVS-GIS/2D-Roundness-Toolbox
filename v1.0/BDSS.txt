@@ -1,0 +1,240 @@
+INITIALISATION avec deb : (25, 13) , fin : (26, 14) , r : (26, 15) 
+INITIALISATION avec HDV : (26, 15) -1, HGV : (25, 13) 0, BV : (26, 14) 1
+
+CH : 
+	 deb : (25, 13) , fin : (26, 14) , r : (26, 15) , n : (27, 16) 
+	 zone rouge (ajouter le point r au debut de la deque) 
+	 deb : (26, 15) , fin : (26, 14) , r : (27, 16) , n : (27, 16) 
+LARGEUR : 
+	 HDV (26, 15) 0, HGV (25, 13) 1 et BV (26, 14) 2
+	 sensTrigo de HDV (26, 15)  HGV (25, 13)  r (27, 16)  : 0.5
+	 sensTrigo de BV (26, 14)  BVcalc (27, 16)  r (27, 16)  : 0
+	 sensTrigo de HDV (26, 15)  HGV (25, 13)  BV (26, 14)  : 0.5
+	 le nouveau point r ne modifie pas la largeur car il se trouve entre les droites (HDVHGV) et (BVBVcalc)
+	 Dist. vert. entre HDV (26, 15) 0, HGV (25, 13) 1 et BV (26, 14) 2 => 1
+
+	 Dist. vert. entre HDV (26, 15) 0, HGV (25, 13) 1 et BV (26, 14) 2 => 1
+
+CH : 
+	 deb : (26, 15) , fin : (26, 14) , r : (27, 16) , n : (28, 17) 
+	 zone bleue (remplacement du point r par le nouveau point n)
+	 deb : (26, 15) , fin : (26, 14) , r : (28, 17) , n : (28, 17) 
+LARGEUR : 
+	 HDV (26, 15) 0, HGV (25, 13) 1 et BV (26, 14) 2
+	 sensTrigo de HDV (26, 15)  HGV (25, 13)  r (28, 17)  : 1
+	 sensTrigo de BV (26, 14)  BVcalc (27, 16)  r (28, 17)  : -0.5
+	 sensTrigo de HDV (26, 15)  HGV (25, 13)  BV (26, 14)  : 0.5
+	 le nouveau point r est au-dessous de (BVBVcalc)
+	 le nouveau point r est apres HDV
+	 + * + = + => HGV == fin, BV vers deb
+	 Dist. vert. entre HDV (28, 17) -1, HGV (26, 14) 2 et BV (26, 15) 0 => -1
+
+	 Dist. vert. entre HDV (28, 17) -1, HGV (26, 14) 2 et BV (26, 15) 0 => -1
+
+CH : 
+	 deb : (26, 15) , fin : (26, 14) , r : (28, 17) , n : (28, 18) 
+	 zone verte (ajouter le point r a la fin de la deque) 
+	 deb : (26, 15) , fin : (28, 17) , r : (28, 18) , n : (28, 18) 
+LARGEUR : 
+	 HDV (28, 17) 3, HGV (26, 14) 2 et BV (26, 15) 0
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  r (28, 18)  : -1
+	 sensTrigo de BV (26, 15)  BVcalc (28, 18)  r (28, 18)  : 0
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  BV (26, 15)  : -1
+	 le nouveau point r ne modifie pas la largeur car il se trouve entre les droites (HDVHGV) et (BVBVcalc)
+	 Dist. vert. entre HDV (28, 17) 3, HGV (26, 14) 2 et BV (26, 15) 0 => -1
+
+	 Dist. vert. entre HDV (28, 17) 3, HGV (26, 14) 2 et BV (26, 15) 0 => -1
+
+CH : 
+	 deb : (26, 15) , fin : (28, 17) , r : (28, 18) , n : (28, 19) 
+	 zone bleue (remplacement du point r par le nouveau point n)
+	 SUPPR : (26, 15) 
+	 deb : (25, 13) , fin : (28, 17) , r : (28, 19) , n : (28, 19) 
+LARGEUR : 
+	 HDV (28, 17) 2, HGV (26, 14) 1 et BV (26, 15) -1
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  r (28, 19)  : -2
+	 sensTrigo de BV (26, 15)  BVcalc (28, 18)  r (28, 19)  : 1
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  BV (26, 15)  : -1
+	 le nouveau point r est au-dessous de (BVBVcalc)
+	 le nouveau point r est entre HGV et HDV
+	 Dist. vert. entre HDV (28, 17) 2, HGV (26, 14) 1 et BV (28, 19) -1 => -2
+
+	 Dist. vert. entre HDV (28, 17) 2, HGV (26, 14) 1 et BV (28, 19) -1 => -2
+
+CH : 
+	 deb : (25, 13) , fin : (28, 17) , r : (28, 19) , n : (28, 20) 
+	 zone bleue (remplacement du point r par le nouveau point n)
+	 deb : (25, 13) , fin : (28, 17) , r : (28, 20) , n : (28, 20) 
+LARGEUR : 
+	 HDV (28, 17) 2, HGV (26, 14) 1 et BV (28, 19) -1
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  r (28, 20)  : -3
+	 sensTrigo de BV (28, 19)  BVcalc (30, 22)  r (28, 20)  : 1
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  BV (28, 19)  : -2
+	 le nouveau point r est au-dessous de (BVBVcalc)
+	 le nouveau point r est entre HGV et HDV
+	 Dist. vert. entre HDV (28, 17) 2, HGV (26, 14) 1 et BV (28, 20) -1 => -3
+
+	 Dist. vert. entre HDV (28, 17) 2, HGV (26, 14) 1 et BV (28, 20) -1 => -3
+
+CH : 
+	 deb : (25, 13) , fin : (28, 17) , r : (28, 20) , n : (29, 21) 
+	 zone rouge (ajouter le point r au debut de la deque) 
+	 deb : (28, 20) , fin : (28, 17) , r : (29, 21) , n : (29, 21) 
+LARGEUR : 
+	 HDV (28, 17) 3, HGV (26, 14) 2 et BV (28, 20) 0
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  r (29, 21)  : -2.5
+	 sensTrigo de BV (28, 20)  BVcalc (30, 23)  r (29, 21)  : -0.5
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  BV (28, 20)  : -3
+	 le nouveau point r ne modifie pas la largeur car il se trouve entre les droites (HDVHGV) et (BVBVcalc)
+	 Dist. vert. entre HDV (28, 17) 3, HGV (26, 14) 2 et BV (28, 20) 0 => -3
+
+	 Dist. vert. entre HDV (28, 17) 3, HGV (26, 14) 2 et BV (28, 20) 0 => -3
+
+CH : 
+	 deb : (28, 20) , fin : (28, 17) , r : (29, 21) , n : (29, 22) 
+	 zone verte (ajouter le point r a la fin de la deque) 
+	 deb : (28, 20) , fin : (29, 21) , r : (29, 22) , n : (29, 22) 
+LARGEUR : 
+	 HDV (28, 17) 3, HGV (26, 14) 2 et BV (28, 20) 0
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  r (29, 22)  : -3.5
+	 sensTrigo de BV (28, 20)  BVcalc (30, 23)  r (29, 22)  : 0.5
+	 sensTrigo de HDV (28, 17)  HGV (26, 14)  BV (28, 20)  : -3
+	 le nouveau point r est au-dessous de (BVBVcalc)
+	 le nouveau point r est apres HDV
+	 + * - = - => HGV == deb, BV vers fin
+	 Dist. vert. entre HDV (29, 22) -1, HGV (28, 20) 0 et BV (28, 17) 3 => 3
+
+	 Dist. vert. entre HDV (29, 22) -1, HGV (28, 20) 0 et BV (28, 17) 3 => 3
+
+CH : 
+	 deb : (28, 20) , fin : (29, 21) , r : (29, 22) , n : (29, 23) 
+	 zone bleue (remplacement du point r par le nouveau point n)
+	 SUPPR : (28, 20) 
+	 deb : (25, 13) , fin : (29, 21) , r : (29, 23) , n : (29, 23) 
+LARGEUR : 
+	 HDV (29, 22) -1, HGV (28, 20) -1 et BV (28, 17) 2
+	 sensTrigo de HDV (29, 22)  HGV (28, 20)  r (29, 23)  : -0.5
+	 sensTrigo de BV (28, 17)  BVcalc (29, 19)  r (29, 23)  : 2
+	 sensTrigo de HDV (29, 22)  HGV (28, 20)  BV (28, 17)  : 1.5
+	 le nouveau point r est au-dessus de (HDVHGV)
+	 le nouveau point r est apres BV
+	 + * + = + => HGV == deb, BV vers fin
+	 Dist. vert. entre HDV (29, 23) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 3.5
+
+	 Dist. vert. entre HDV (29, 23) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 3.5
+
+CH : 
+	 deb : (25, 13) , fin : (29, 21) , r : (29, 23) , n : (30, 24) 
+	 zone rouge (ajouter le point r au debut de la deque) 
+	 SUPPR : (29, 21) 
+	 deb : (29, 23) , fin : (28, 17) , r : (30, 24) , n : (30, 24) 
+LARGEUR : 
+	 HDV (29, 23) 0, HGV (25, 13) 1 et BV (28, 17) 3
+	 sensTrigo de HDV (29, 23)  HGV (25, 13)  r (30, 24)  : 3
+	 sensTrigo de BV (28, 17)  BVcalc (32, 27)  r (30, 24)  : 4
+	 sensTrigo de HDV (29, 23)  HGV (25, 13)  BV (28, 17)  : 7
+	 le nouveau point r ne modifie pas la largeur car il se trouve entre les droites (HDVHGV) et (BVBVcalc)
+	 Dist. vert. entre HDV (29, 23) 0, HGV (25, 13) 1 et BV (28, 17) 3 => 3.5
+
+	 Dist. vert. entre HDV (29, 23) 0, HGV (25, 13) 1 et BV (28, 17) 3 => 3.5
+
+CH : 
+	 deb : (29, 23) , fin : (28, 17) , r : (30, 24) , n : (30, 25) 
+	 zone verte (ajouter le point r a la fin de la deque) 
+	 deb : (29, 23) , fin : (30, 24) , r : (30, 25) , n : (30, 25) 
+LARGEUR : 
+	 HDV (29, 23) 0, HGV (25, 13) 1 et BV (28, 17) 3
+	 sensTrigo de HDV (29, 23)  HGV (25, 13)  r (30, 25)  : 1
+	 sensTrigo de BV (28, 17)  BVcalc (32, 27)  r (30, 25)  : 6
+	 sensTrigo de HDV (29, 23)  HGV (25, 13)  BV (28, 17)  : 7
+	 le nouveau point r ne modifie pas la largeur car il se trouve entre les droites (HDVHGV) et (BVBVcalc)
+	 Dist. vert. entre HDV (29, 23) 0, HGV (25, 13) 1 et BV (28, 17) 3 => 3.5
+
+	 Dist. vert. entre HDV (29, 23) 0, HGV (25, 13) 1 et BV (28, 17) 3 => 3.5
+
+CH : 
+	 deb : (29, 23) , fin : (30, 24) , r : (30, 25) , n : (30, 26) 
+	 zone bleue (remplacement du point r par le nouveau point n)
+	 SUPPR : (29, 23) 
+	 deb : (25, 13) , fin : (30, 24) , r : (30, 26) , n : (30, 26) 
+LARGEUR : 
+	 HDV (29, 23) -1, HGV (25, 13) 0 et BV (28, 17) 2
+	 sensTrigo de HDV (29, 23)  HGV (25, 13)  r (30, 26)  : -1
+	 sensTrigo de BV (28, 17)  BVcalc (32, 27)  r (30, 26)  : 8
+	 sensTrigo de HDV (29, 23)  HGV (25, 13)  BV (28, 17)  : 7
+	 le nouveau point r est au-dessus de (HDVHGV)
+	 le nouveau point r est apres BV
+	 + * + = + => HGV == deb, BV vers fin
+	 Dist. vert. entre HDV (30, 26) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 3.8
+
+	 Dist. vert. entre HDV (30, 26) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 3.8
+
+CH : 
+	 deb : (25, 13) , fin : (30, 24) , r : (30, 26) , n : (30, 27) 
+	 zone bleue (remplacement du point r par le nouveau point n)
+	 deb : (25, 13) , fin : (30, 24) , r : (30, 27) , n : (30, 27) 
+LARGEUR : 
+	 HDV (30, 26) -1, HGV (25, 13) 0 et BV (28, 17) 2
+	 sensTrigo de HDV (30, 26)  HGV (25, 13)  r (30, 27)  : -2.5
+	 sensTrigo de BV (28, 17)  BVcalc (33, 30)  r (30, 27)  : 12
+	 sensTrigo de HDV (30, 26)  HGV (25, 13)  BV (28, 17)  : 9.5
+	 le nouveau point r est au-dessus de (HDVHGV)
+	 le nouveau point r est apres BV
+	 + * + = + => HGV == deb, BV vers fin
+	 Dist. vert. entre HDV (30, 27) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 4.4
+
+	 Dist. vert. entre HDV (30, 27) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 4.4
+
+CH : 
+	 deb : (25, 13) , fin : (30, 24) , r : (30, 27) , n : (30, 28) 
+	 zone bleue (remplacement du point r par le nouveau point n)
+	 deb : (25, 13) , fin : (30, 24) , r : (30, 28) , n : (30, 28) 
+LARGEUR : 
+	 HDV (30, 27) -1, HGV (25, 13) 0 et BV (28, 17) 2
+	 sensTrigo de HDV (30, 27)  HGV (25, 13)  r (30, 28)  : -2.5
+	 sensTrigo de BV (28, 17)  BVcalc (33, 31)  r (30, 28)  : 13.5
+	 sensTrigo de HDV (30, 27)  HGV (25, 13)  BV (28, 17)  : 11
+	 le nouveau point r est au-dessus de (HDVHGV)
+	 le nouveau point r est apres BV
+	 + * + = + => HGV == deb, BV vers fin
+	 Dist. vert. entre HDV (30, 28) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 5
+
+	 Dist. vert. entre HDV (30, 28) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 5
+
+CH : 
+	 deb : (25, 13) , fin : (30, 24) , r : (30, 28) , n : (30, 29) 
+	 zone bleue (remplacement du point r par le nouveau point n)
+	 deb : (25, 13) , fin : (30, 24) , r : (30, 29) , n : (30, 29) 
+LARGEUR : 
+	 HDV (30, 28) -1, HGV (25, 13) 0 et BV (28, 17) 2
+	 sensTrigo de HDV (30, 28)  HGV (25, 13)  r (30, 29)  : -2.5
+	 sensTrigo de BV (28, 17)  BVcalc (33, 32)  r (30, 29)  : 15
+	 sensTrigo de HDV (30, 28)  HGV (25, 13)  BV (28, 17)  : 12.5
+	 le nouveau point r est au-dessus de (HDVHGV)
+	 le nouveau point r est apres BV
+	 + * + = + => HGV == deb, BV vers fin
+	 Dist. vert. entre HDV (30, 29) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 5.6
+
+	 Dist. vert. entre HDV (30, 29) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 5.6
+
+CH : 
+	 deb : (25, 13) , fin : (30, 24) , r : (30, 29) , n : (30, 30) 
+	 zone bleue (remplacement du point r par le nouveau point n)
+	 deb : (25, 13) , fin : (30, 24) , r : (30, 30) , n : (30, 30) 
+LARGEUR : 
+	 HDV (30, 29) -1, HGV (25, 13) 0 et BV (28, 17) 2
+	 sensTrigo de HDV (30, 29)  HGV (25, 13)  r (30, 30)  : -2.5
+	 sensTrigo de BV (28, 17)  BVcalc (33, 33)  r (30, 30)  : 16.5
+	 sensTrigo de HDV (30, 29)  HGV (25, 13)  BV (28, 17)  : 14
+	 le nouveau point r est au-dessus de (HDVHGV)
+	 le nouveau point r est apres BV
+	 + * + = + => HGV == deb, BV vers fin
+	 Dist. vert. entre HDV (30, 30) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 6.2
+
+	 Dist. vert. entre HDV (30, 30) -1, HGV (25, 13) 0 et BV (28, 17) 2 => 6.2
+
+ deb
+	 Dist. vert. entre HDV (30, 30) -1, HGV (13, 25) 3 et BV (17, 28) 1 => -1.82353
+
+	 Dist. vert. entre HDV (30, 30) -1, HGV (13, 25) 3 et BV (17, 28) 1 => -1.82353
+

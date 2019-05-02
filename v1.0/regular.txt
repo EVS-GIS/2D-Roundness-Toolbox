@@ -1,0 +1,263 @@
+INITIALISATION : Rg (-2, 0)  Rd (-1, 0) 
+               : hg 1 hd 0 b 1
+
+
+Ajout de (-3, 0)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-1, 0) , Rg : (-2, 0) , n : (-3, 0) 
+	 0 0 0
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? 0
+	 convexite ? 0
+
+2) LARGEUR : 
+	 UL 1(-2, 0) , UR 0(-1, 0) , L 1(-2, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-3, 0) , UR 0(-1, 0) , L 1(-2, 0) 
+	 Tant que (0 > 0) et L2 (-1, 0) ne dépasse pas Rg (-3, 0) ...
+	 Largeur de UL (-3, 0) 1, UR (-1, 0) 0 et L (-3, 0) 1 => 0
+
+	 < : OK
+
+Ajout de (-4, 0)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-1, 0) , Rg : (-3, 0) , n : (-4, 0) 
+	 0 0 0
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? 0
+	 convexite ? 0
+
+2) LARGEUR : 
+	 UL 1(-3, 0) , UR 0(-1, 0) , L 1(-3, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-4, 0) , UR 0(-1, 0) , L 1(-3, 0) 
+	 Tant que (0 > 0) et L2 (-1, 0) ne dépasse pas Rg (-4, 0) ...
+	 Largeur de UL (-4, 0) 1, UR (-1, 0) 0 et L (-4, 0) 1 => 0
+
+	 < : OK
+
+Ajout de (-5, 0)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-1, 0) , Rg : (-4, 0) , n : (-5, 0) 
+	 0 0 0
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? 0
+	 convexite ? 0
+
+2) LARGEUR : 
+	 UL 1(-4, 0) , UR 0(-1, 0) , L 1(-4, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-5, 0) , UR 0(-1, 0) , L 1(-4, 0) 
+	 Tant que (0 > 0) et L2 (-1, 0) ne dépasse pas Rg (-5, 0) ...
+	 Largeur de UL (-5, 0) 1, UR (-1, 0) 0 et L (-5, 0) 1 => 0
+
+	 < : OK
+
+Ajout de (-6, 0)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-1, 0) , Rg : (-5, 0) , n : (-6, 0) 
+	 0 0 0
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? 0
+	 convexite ? 0
+
+2) LARGEUR : 
+	 UL 1(-5, 0) , UR 0(-1, 0) , L 1(-5, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-6, 0) , UR 0(-1, 0) , L 1(-5, 0) 
+	 Tant que (0 > 0) et L2 (-1, 0) ne dépasse pas Rg (-6, 0) ...
+	 Largeur de UL (-6, 0) 1, UR (-1, 0) 0 et L (-6, 0) 1 => 0
+
+	 < : OK
+
+Ajout de (-7, 0)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-1, 0) , Rg : (-6, 0) , n : (-7, 0) 
+	 0 0 0
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? 0
+	 convexite ? 0
+
+2) LARGEUR : 
+	 UL 1(-6, 0) , UR 0(-1, 0) , L 1(-6, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-7, 0) , UR 0(-1, 0) , L 1(-6, 0) 
+	 Tant que (0 > 0) et L2 (-1, 0) ne dépasse pas Rg (-7, 0) ...
+	 Largeur de UL (-7, 0) 1, UR (-1, 0) 0 et L (-7, 0) 1 => 0
+
+	 < : OK
+
+Ajout de (-8, 0)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-1, 0) , Rg : (-7, 0) , n : (-8, 0) 
+	 0 0 0
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? 0
+	 convexite ? 0
+
+2) LARGEUR : 
+	 UL 1(-7, 0) , UR 0(-1, 0) , L 1(-7, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-8, 0) , UR 0(-1, 0) , L 1(-7, 0) 
+	 Tant que (0 > 0) et L2 (-1, 0) ne dépasse pas Rg (-8, 0) ...
+	 Largeur de UL (-8, 0) 1, UR (-1, 0) 0 et L (-8, 0) 1 => 0
+
+	 < : OK
+
+Ajout de (-9, 0)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-1, 0) , Rg : (-8, 0) , n : (-9, 0) 
+	 0 0 0
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? 0
+	 convexite ? 0
+
+2) LARGEUR : 
+	 UL 1(-8, 0) , UR 0(-1, 0) , L 1(-8, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-9, 0) , UR 0(-1, 0) , L 1(-8, 0) 
+	 Tant que (0 > 0) et L2 (-1, 0) ne dépasse pas Rg (-9, 0) ...
+	 Largeur de UL (-9, 0) 1, UR (-1, 0) 0 et L (-9, 0) 1 => 0
+
+	 < : OK
+
+Ajout de (-10, 1)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-1, 0) , Rg : (-9, 0) , n : (-10, 1) 
+	 -4 -4 0
+	 zone rouge (ajouter le point Rg au debut de la deque inferieure) 
+	 convexite ? -4
+
+2) LARGEUR : 
+	 UL 2(-9, 0) , UR 0(-1, 0) , L 2(-9, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-10, 1) , UR 0(-1, 0) , L 2(-9, 0) 
+	 Tant que (0 > 8) et L2 (-10, 1) ne dépasse pas Rg (-10, 1) ...
+	 Largeur de UL (-10, 1) 1, UR (-1, 0) 0 et L (-9, 0) 2 => 0.888889
+
+	 < : OK
+
+Ajout de (-11, 1)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-9, 0) , Rg : (-10, 1) , n : (-11, 1) 
+	 0.5 0.5 -4
+	 zone verte (ajouter le point Rg au debut de la deque superieure) 
+	 convexite ? 4
+
+2) LARGEUR : 
+	 UL 1(-10, 1) , UR 0(-1, 0) , L 3(-9, 0) 
+	 le nouveau point Rg ne modifie pas la largeur car il se trouve entre les droites (UL-UR) et (L-Lcalc)
+	 Largeur de UL (-10, 1) 1, UR (-1, 0) 0 et L (-9, 0) 3 => 0.888889
+
+	 < : OK
+
+Ajout de (-12, 2)  a gauche 
+1) CH 
+	 debh : (-10, 1) , debb : (-9, 0) , Rg : (-11, 1) , n : (-12, 2) 
+	 -0.5 -0.5 -0.5
+	 zone rouge (ajouter le point Rg au debut de la deque inferieure) 
+	 convexite ? 3.5
+	 SUPPR : (-10, 1) 
+	 convexite ? -8
+
+2) LARGEUR : 
+	 UL 0(-10, 1) , UR 0(-1, 0) , L 3(-9, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-12, 2) , UR 0(-1, 0) , L 3(-9, 0) 
+	 Tant que (9 > 16) et L2 (-11, 1) ne dépasse pas Rg (-12, 2) ...
+	 Largeur de UL (-12, 2) 1, UR (-1, 0) 0 et L (-9, 0) 3 => 1.45455
+
+	 < : OK
+
+Ajout de (-13, 2)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-11, 1) , Rg : (-12, 2) , n : (-13, 2) 
+	 1 0.5 -4
+	 zone verte (ajouter le point Rg au debut de la deque superieure) 
+	 convexite ? 0
+	 SUPPR : (-11, 1) 
+	 convexite ? 8
+
+2) LARGEUR : 
+	 UL 1(-12, 2) , UR 0(-1, 0) , L 3(-9, 0) 
+	 le nouveau point Rg ne modifie pas la largeur car il se trouve entre les droites (UL-UR) et (L-Lcalc)
+	 Largeur de UL (-12, 2) 1, UR (-1, 0) 0 et L (-9, 0) 3 => 1.45455
+
+	 < : OK
+
+Ajout de (-14, 2)  a gauche 
+1) CH 
+	 debh : (-12, 2) , debb : (-9, 0) , Rg : (-13, 2) , n : (-14, 2) 
+	 0 1 -2
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? -2
+	 convexite ? 8
+
+2) LARGEUR : 
+	 UL 1(-12, 2) , UR 0(-1, 0) , L 3(-9, 0) 
+	 le nouveau point Rg ne modifie pas la largeur car il se trouve entre les droites (UL-UR) et (L-Lcalc)
+	 Largeur de UL (-12, 2) 1, UR (-1, 0) 0 et L (-9, 0) 3 => 1.45455
+
+	 < : OK
+
+Ajout de (-15, 2)  a gauche 
+1) CH 
+	 debh : (-12, 2) , debb : (-9, 0) , Rg : (-14, 2) , n : (-15, 2) 
+	 0 1 -3
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? -3
+	 convexite ? 8
+
+2) LARGEUR : 
+	 UL 1(-12, 2) , UR 0(-1, 0) , L 3(-9, 0) 
+	 le nouveau point Rg ne modifie pas la largeur car il se trouve entre les droites (UL-UR) et (L-Lcalc)
+	 Largeur de UL (-12, 2) 1, UR (-1, 0) 0 et L (-9, 0) 3 => 1.45455
+
+	 < : OK
+
+Ajout de (-16, 3)  a gauche 
+1) CH 
+	 debh : (-12, 2) , debb : (-9, 0) , Rg : (-15, 2) , n : (-16, 3) 
+	 -1.5 -2 -2.5
+	 zone rouge (ajouter le point Rg au debut de la deque inferieure) 
+	 convexite ? 1.5
+	 SUPPR : (-12, 2) 
+	 convexite ? -12
+
+2) LARGEUR : 
+	 UL 0(-12, 2) , UR 0(-1, 0) , L 3(-9, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-16, 3) , UR 0(-1, 0) , L 3(-9, 0) 
+	 Tant que (12 > 24) et L2 (-15, 2) ne dépasse pas Rg (-16, 3) ...
+	 Largeur de UL (-16, 3) 1, UR (-1, 0) 0 et L (-9, 0) 3 => 1.6
+
+	 < : OK
+
+Ajout de (-17, 4)  a gauche 
+1) CH 
+	 debh : (-1, 0) , debb : (-15, 2) , Rg : (-16, 3) , n : (-17, 4) 
+	 -6 0 -12
+	 zone bleue (remplacement du point Rg par le nouveau point n)
+	 convexite ? -16
+	 convexite ? 4
+
+2) LARGEUR : 
+	 UL 1(-16, 3) , UR 0(-1, 0) , L 3(-9, 0) 
+	 Le nouveau point Rg est au-dessus de (URUL)
+	 DplcmtEstCroissant == FAUX
+	 UL 1(-17, 4) , UR 0(-1, 0) , L 3(-9, 0) 
+	 Tant que (24 > 32) et L2 (-15, 2) ne dépasse pas Rg (-17, 4) ...
+	 Largeur de UL (-17, 4) 1, UR (-1, 0) 0 et L (-9, 0) 3 => 2
+
+	 >= : cancel
+	 zone : 0 Rbuffer : (-16, 3) 
